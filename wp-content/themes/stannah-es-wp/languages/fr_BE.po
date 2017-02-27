@@ -1,0 +1,1704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stannah Whitelabel\n"
+"POT-Creation-Date: 2016-09-15 16:26+0200\n"
+"PO-Revision-Date: 2016-09-22 11:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "404!"
+msgstr "404!"
+
+#: 404.php:13
+msgid "That page can&rsquo;t be found."
+msgstr "Cette page Web ne peut pas s’afficher."
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Perhaps try the links at "
+"the top of page."
+msgstr ""
+"Apparemment, rien n’a été trouvé à cette adresse. Essayez avec recherche?"
+
+#: archive.php:58
+msgid "Latest news from Stannah"
+msgstr "L’actualité récente de Stannah"
+
+#: archive.php:61
+msgid "Here, you'll find what the"
+msgstr "Vous trouverez ici ce que"
+
+#: archive.php:61
+msgid "press and other media"
+msgstr "la presse et d'autres médias"
+
+#: archive.php:61
+msgid ""
+"have said about us , plus stairlift news, what's happening at Stannah and "
+"other snippets of information. It's all here to keep you up to date with the "
+"world of Stannah stairlifts."
+msgstr ""
+"ont dit de nous, mais aussi l'actualité des monte-escaliers, les coulisses "
+"de Stannah et d'autres bribes d'information. L'idéal pour rester à la page "
+"de tout ce qui bouge dans l'univers des monte-escaliers Stannah."
+
+#: archive.php:75
+msgid "Select category"
+msgstr "Sélectionnez la catégorie"
+
+#: archive.php:84
+msgid "Show me: "
+msgstr "Montrez-moi :"
+
+#: archive.php:92
+msgid "View"
+msgstr "Voir"
+
+#: archive.php:99 archive.php:145
+msgid "SHOWING:"
+msgstr "Choix :"
+
+#: archive.php:99 archive.php:145
+msgid "Items"
+msgstr "Articles"
+
+#: archive.php:99 archive.php:145
+msgid "of"
+msgstr "ou"
+
+#: archive.php:120 page-homepage.php:279 page-homepage.php:298
+#: page-product-listing.php:188 single-product.php:104
+msgid "Read more"
+msgstr "Lire plus"
+
+#: archive.php:123
+msgid "Calander icon:"
+msgstr "Icône de calendrier :"
+
+#: archive.php:128
+msgid "Categories"
+msgstr "Catégories"
+
+#: archive.php:134
+msgid "We don't have anything for you right now. Come back soon."
+msgstr ""
+"Nous n'avons rien pour vous pour le moment. Repassez très prochainement !"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Publié par"
+
+#: content.php:45
+msgid "POSTED BY"
+msgstr "POSTÉ PAR"
+
+#: content.php:50
+msgid "IN CATEGORY"
+msgstr "DANS LA CATÉGORIE"
+
+#: content.php:56
+msgid "TAGS"
+msgstr "BALISES"
+
+#: content.php:62 page.php:38
+msgid "SHARE"
+msgstr "PARTAGER"
+
+#: content.php:65 page.php:41
+msgid "Twitter"
+msgstr "Twitter"
+
+#: content.php:68 footer.php:19 page.php:44
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content.php:71
+msgid "Google plus"
+msgstr "Google plus"
+
+#: content.php:86
+msgid "Related stories"
+msgstr "Articles liés"
+
+#: content.php:103 page-customer-stories.php:134 page-customer-stories.php:178
+msgid "Read more..."
+msgstr "Lire plus…"
+
+#: footer.php:16
+msgid "Site map"
+msgstr "Plan du site"
+
+#: footer.php:17
+msgid "Privacy &amp; T&C's"
+msgstr "Vie privée et conditions d'utilisation"
+
+#: footer.php:18
+msgid "Contact us"
+msgstr "Contact"
+
+#: footer.php:20
+msgid "Youtube"
+msgstr "Youtube"
+
+#: footer.php:21 page.php:47
+msgid "Google+"
+msgstr "Google+"
+
+#: footer.php:32
+msgid "Contact details"
+msgstr "Informations de contact"
+
+#: footer.php:38
+msgid "More ways to contact us"
+msgstr "Plus d’options de contact"
+
+#: footer.php:44
+msgid "A stairlift in 3 simple steps"
+msgstr "Votre monte-escalier en trois étapes"
+
+#: footer.php:46 page-3-simple-steps.php:30
+msgid "Call our friendly advisors to discuss your options"
+msgstr "Contactez votre conseiller et partagez vos souhaits"
+
+#: footer.php:47
+msgid "Book a no-obligation FREE assessment of your stairs"
+msgstr "Prenez rendez-vous pour une visite sans engagement"
+
+#: footer.php:48
+msgid "Quickly installed by trained and accredited technicians"
+msgstr "Faites installer votre monte-escalier"
+
+#: footer.php:51
+msgid "Learn more about the steps"
+msgstr "En savoir plus sur les étapes"
+
+#: footer.php:55
+msgid "Why choose Stannah?"
+msgstr "Les raisons de choisir Stannah"
+
+#: footer.php:57
+msgid "Experienced local representatives and installers to serve your needs"
+msgstr "Qualité toujours excellente"
+
+#: footer.php:58
+msgid "Experienced local representatives &amp; installers"
+msgstr "Pour chaque type d’escaliers et entièrement ajustable"
+
+#: footer.php:59
+msgid ""
+"Safety features included as standard, and sensible options to meet your needs"
+msgstr "Installation simple"
+
+#: footer.php:60
+msgid "Excellent warranty"
+msgstr "Assistance permanente"
+
+#: footer.php:63
+msgid "Learn more about Stannah"
+msgstr "En savoir plus sur Stannah"
+
+#: footer.php:67
+msgid "International Stannah sites:"
+msgstr "Stannah à l’étranger"
+
+#: footer.php:68
+msgid "...Choose Country"
+msgstr "Sélectionnez votre pays"
+
+#: footer.php:69
+msgid "Choose Country"
+msgstr "Sélectionnez votre pays"
+
+#: footer.php:70
+msgid "United Kingdom"
+msgstr "Royaume-Uni"
+
+#: footer.php:71
+msgid "Argentina"
+msgstr "Argentine"
+
+#: footer.php:72
+msgid "Austrailia - NSW"
+msgstr "Australie - NSW"
+
+#: footer.php:73
+msgid "Austrailia - Queensland"
+msgstr "Australie - Queensland"
+
+#: footer.php:74
+msgid "Austrailia - Victoria"
+msgstr "Australie - Victoria"
+
+#: footer.php:75
+msgid "Austrailia - Southern"
+msgstr "Australie-Méridionale"
+
+#: footer.php:76
+msgid "Austrailia - Western"
+msgstr "Australie-Occidentale"
+
+#: footer.php:77
+msgid "Austria"
+msgstr "Autriche"
+
+#: footer.php:78
+msgid "Beijing"
+msgstr "Pékin"
+
+#: footer.php:79
+msgid "Belgium"
+msgstr "Belgique"
+
+#: footer.php:80
+msgid "Brazil"
+msgstr "Brésil"
+
+#: footer.php:81
+msgid "Channel Islands"
+msgstr "Îles Anglo-Normandes "
+
+#: footer.php:82
+msgid "Chile"
+msgstr "Chili"
+
+#: footer.php:83
+msgid "Colombia"
+msgstr "Colombie"
+
+#: footer.php:84
+msgid "Cyprus"
+msgstr "Chypre"
+
+#: footer.php:85
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+#: footer.php:86
+msgid "Denmark"
+msgstr "Danemark"
+
+#: footer.php:87
+msgid "Finland"
+msgstr "Finlande"
+
+#: footer.php:88
+msgid "France"
+msgstr "France"
+
+#: footer.php:89
+msgid "Germany"
+msgstr "Allemagne"
+
+#: footer.php:90
+msgid "Greece"
+msgstr "Grèce"
+
+#: footer.php:91
+msgid "Holland"
+msgstr "Pays-Bas"
+
+#: footer.php:92
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: footer.php:93
+msgid "Hungary"
+msgstr "Hongrie"
+
+#: footer.php:94
+msgid "Israel"
+msgstr "Israël"
+
+#: footer.php:95
+msgid "Italy"
+msgstr "Italie"
+
+#: footer.php:96
+msgid "Japan"
+msgstr "Japon"
+
+#: footer.php:97
+msgid "Luxemburg"
+msgstr "Luxembourg"
+
+#: footer.php:98
+msgid "Malta"
+msgstr "Malte"
+
+#: footer.php:99
+msgid "Mexico (South/central)"
+msgstr "Mexique (Sud/Central)"
+
+#: footer.php:100
+msgid "Mexico (North)"
+msgstr "Mexique (Nord)"
+
+#: footer.php:101
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+#: footer.php:102
+msgid "Northern Ireland"
+msgstr "Irlande du Nord"
+
+#: footer.php:103
+msgid "Norway"
+msgstr "Norvège"
+
+#: footer.php:104
+msgid "Portugal"
+msgstr "Portugal"
+
+#: footer.php:105
+msgid "Singapore"
+msgstr "Singapour"
+
+#: footer.php:106
+msgid "Slovakia"
+msgstr "Slovaquie"
+
+#: footer.php:107
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+#: footer.php:108
+msgid "Spain"
+msgstr "Espagne"
+
+#: footer.php:109
+msgid "Sweden"
+msgstr "Suède"
+
+#: footer.php:110
+msgid "Switzerland"
+msgstr "Suisse"
+
+#: footer.php:111
+msgid "Taiwan"
+msgstr "Taïwan"
+
+#: footer.php:112
+msgid "Thailand"
+msgstr "Thaïlande"
+
+#: footer.php:113
+msgid "Turkey"
+msgstr "Turquie"
+
+#: footer.php:114
+msgid "UAE"
+msgstr "ÉAU"
+
+#: footer.php:115
+msgid "USA and Canada"
+msgstr "États-Unis et Canada"
+
+#: footer.php:117
+msgid "Stannah.com"
+msgstr "Stannah.com"
+
+#: footer.php:126
+msgid "©Stannah Stairlifts Inc. 2015. All rights reserved."
+msgstr "©Stannah Stairlifts Inc. 2015. Tous droits réservés."
+
+#: functions.php:20
+msgid "Utilities bar"
+msgstr "Barre d'utilitaires"
+
+#: functions.php:21
+msgid "Appears on all pages and posts above the header"
+msgstr "Apparaît sur toutes les pages et messages au-dessus de l'en-tête"
+
+#: functions.php:48
+msgid "Products"
+msgstr "Produits"
+
+#: functions.php:49
+msgid "Product"
+msgstr "Produit"
+
+#: functions.php:78
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:84
+msgid "Footer Menu"
+msgstr "Menu de bas de page"
+
+#: functions.php:92
+msgid "Sent:"
+msgstr "Envoyé :"
+
+#: header.php:28 header.php:30 header.php:100 header.php:101
+msgid "Stannah"
+msgstr "Stannah"
+
+#: header.php:30
+msgid "The Stairlift People"
+msgstr "Monte-Escaliers pour tout Type d’Escalier"
+
+#: header.php:109
+msgid "Stannah logo"
+msgstr "Stannah logo"
+
+#: header.php:111
+msgid "Got a question? Phone FREE"
+msgstr "Appelez gratuitement un conseiller au"
+
+#: header.php:112
+msgid "Friendly UK advisors available 24 hours a day"
+msgstr "Votre conseiller Stannah est à votre disposition 24 h/24. "
+
+#: header.php:128
+msgid "Menu"
+msgstr "Menu"
+
+#: image.php:73
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Publié dans</span><span class=\"post-title\">"
+"%title</span>"
+
+#: includes/brochure-modals.php:4 includes/brochure-modals.php:60
+msgid "Ok, got it. Close"
+msgstr "OK, c'est fait. Fermer"
+
+#: includes/brochure-modals.php:8
+msgid "Brochure"
+msgstr "Brochure"
+
+#: includes/brochure-modals.php:11 page-contact-us.php:138
+msgid "Download"
+msgstr "Télécharger"
+
+#: includes/brochure-modals.php:12
+msgid "Please find your PDF download below."
+msgstr "Veuillez trouver votre téléchargement PDF ci-dessous"
+
+#: includes/brochure-modals.php:14 page-product-listing.php:279
+#: single-product.php:510
+msgid "Size: 43k (small) - PDF format"
+msgstr "Taille : 43k (petit) - format PDF"
+
+#: includes/brochure-modals.php:16
+msgid "Or"
+msgstr "Ou"
+
+#: includes/brochure-modals.php:20
+msgid "Mail me a copy"
+msgstr "Envoyez-moi une copie par e-mail"
+
+#: includes/brochure-modals.php:21
+msgid "Fill in your address and we'll mail you a copy"
+msgstr "Indiquez votre adresse et nous vous enverrons une copie"
+
+#: includes/brochure-modals.php:24 page-contact-us.php:60 page-warrenty.php:47
+msgid "Name"
+msgstr "Votre nom"
+
+#: includes/brochure-modals.php:28 page-warrenty.php:59
+msgid "Email"
+msgstr "Votre adresse e-mail"
+
+#: includes/brochure-modals.php:32 page-warrenty.php:55
+msgid "Tel"
+msgstr "Votre numéro de téléphone"
+
+#: includes/brochure-modals.php:37
+msgid "Your address"
+msgstr "Votre addresse"
+
+#: includes/brochure-modals.php:43
+msgid "Your zip code"
+msgstr "Votre code postal"
+
+#: includes/brochure-modals.php:44
+msgid "Zip"
+msgstr "Votre code postal"
+
+#: includes/brochure-modals.php:47
+msgid "Post Brochure request from:"
+msgstr "Publier une demande de brochure de :"
+
+#: includes/brochure-modals.php:47
+msgid "Mail my Brochure"
+msgstr "Envoyez-moi une brochure par courrier"
+
+#: includes/brochure-modals.php:61 page-warrenty.php:81
+msgid "Thank you"
+msgstr "Merci"
+
+#: includes/brochure-modals.php:62
+msgid "Your brochure is in the mail and will be with you soon."
+msgstr "Votre brochure part par courrier et vous arrivera prochainement."
+
+#: includes/range-teaser.php:13
+msgid ""
+"A <b><span class=\"brand\">Stannah</span></b> stair lift will fit <b>any "
+"staircase</b>, wide, narrow, \n"
+"                        curved or straight"
+msgstr ""
+"Marches étroites ou larges ? Escalier droit ou à virages ? <b><span class="
+"\"brand\">Stannah</span></b> a <b>le monte-escalier idéal</b> pour votre "
+"habitation.\r"
+
+#: includes/range-teaser.php:17
+msgid ""
+"<b><span>Our 3 most popular stairlifts:</span></b> Custom built to fit you "
+"&amp; your home - choices of <b>colors</b>, <b>fabrics</b> and <b>finishes</"
+"b>"
+msgstr ""
+"<b><span>Découvrez les 3 nouveaux monte-escaliers</span></b> – et choisissez "
+"votre <b>coloris</b> et votre <b>revêtement</b>."
+
+#: includes/range-teaser.php:54
+msgid ""
+"<span>1975...</span>\n"
+"                    was the year we produced our first stairlift"
+msgstr "Nous avons vendu notre premier monte-escalier en <span>1975.</span>\r"
+
+#: includes/why-choose.php:8 page-about.php:93 page-homepage.php:160
+msgid "Why choose <b><span class=\"brand\">Stannah</span></b>..."
+msgstr "Pourquoi choisir <b><span class=\"brand\">Stannah</span></b> ?"
+
+#: includes/why-choose.php:26 page-about.php:111 page-homepage.php:178
+msgid "See more reasons to choose"
+msgstr "En savoir plus sur Stannah"
+
+#: page-3-simple-steps.php:18
+msgid "to a Stannah stairlift"
+msgstr "vers votre monte-escaliers Stannah"
+
+#: page-3-simple-steps.php:31
+msgid "Book a no-obligation FREE home assessment"
+msgstr "Prenez rendez-vous pour une visite sans engagement"
+
+#: page-3-simple-steps.php:32 page-3-simple-steps.php:236
+msgid "Installation by trained and accredited technicians"
+msgstr "Faites installer votre monte-escalier"
+
+#: page-3-simple-steps.php:47
+msgid "We're here to help you"
+msgstr "Tirez avantage d’une expérience à la puissance 600.000"
+
+#: page-3-simple-steps.php:79 page-3-simple-steps.php:164
+#: page-help-and-advice.php:193
+msgid ""
+"To speak to our advisors or to book a <span>FREE no-obligation</span> "
+"appointment on a date and time that suits you call:"
+msgstr ""
+"Contactez un conseiller par téléphone ou prenez rendez-vous pour une visite "
+"<span>sans engagement</span>.\r"
+
+#: page-3-simple-steps.php:83
+msgid "Speak to our friendly advisors now"
+msgstr "Appelez gratuitement "
+
+#: page-3-simple-steps.php:94 page-3-simple-steps.php:179
+#: page-3-simple-steps.php:304 page-help-and-advice.php:27
+msgid "Did you know..."
+msgstr "Le saviez-vous ?"
+
+#: page-3-simple-steps.php:95 page-3-simple-steps.php:180
+#: page-3-simple-steps.php:305
+msgid ""
+"Our phones get answered <b>24-hours a day</b>, seven days a week, 365 days a "
+"year. And, if there’s ever a problem, our technicians are based locally, "
+"ready to help."
+msgstr ""
+"… Stannah ne vend jamais de monte-escalier par téléphone. Un conseiller se "
+"rend toujours gratuitement chez vous. Nous voyons en cette démarche la seule "
+"manière d’installer un monte-escalier parfaitement adapté à votre habitation "
+"et vos besoins.\r"
+
+#: page-3-simple-steps.php:100
+msgid "<em>Next step:</em> Book a no-obligation FREE home assessment"
+msgstr "<em>Étape 2 :</em> Prenez rendez-vous "
+
+#: page-3-simple-steps.php:111
+msgid "Book a FREE no obligation home appointment"
+msgstr "Prenez rendez-vous pour une visite gratuite"
+
+#: page-3-simple-steps.php:112
+msgid ""
+"When our advisor visits your home, he or she will talk with you about what "
+"you need out of a stairlift."
+msgstr ""
+"Vous appelez un conseiller Stannah ? Profitez-en pour convenir d’un rendez-"
+"vous sans engagement. Un expert mesurera votre escalier et vous présentera "
+"les types de monte-escaliers, les possibilités de finitions ainsi que le "
+"déroulement. <b>Appelez gratuitement le 0800 95 950.</b>"
+
+#: page-3-simple-steps.php:116
+msgid "Appointments last about"
+msgstr "Une visite dure en moyenne"
+
+#: page-3-simple-steps.php:116
+msgid "or less depending on <span class=\"brand\">your</span> needs"
+msgstr "ou moins, selon vos questions et exigences."
+
+#: page-3-simple-steps.php:124
+msgid "What is a stairlift assessment?"
+msgstr "Que faisons-nous ?"
+
+#: page-3-simple-steps.php:132
+msgid "What will happen during the appointment?"
+msgstr "Qu’apprenez-vous ?"
+
+#: page-3-simple-steps.php:138
+msgid ""
+"Your consultant will leave you with a fixed, written quotation that you can "
+"decide on in your own time."
+msgstr ""
+"Profitez de la visite gratuite pour poser toutes vos questions. Votre "
+"conseiller se fera un plaisir de vous exposer les diverses possibilités dans "
+"votre situation. \r"
+
+#: page-3-simple-steps.php:143
+msgid "What will happen following the appointment"
+msgstr "Et ensuite ?"
+
+#: page-3-simple-steps.php:149
+msgid "Within"
+msgstr "Dans les"
+
+#: page-3-simple-steps.php:151
+msgid "We will be in touch<br /> to answer any<br /> questions"
+msgstr "nous vous</br> contactons."
+
+#: page-3-simple-steps.php:168 page-contact-us.php:44
+#: page-help-and-advice.php:105 page-help-and-advice.php:197
+#: page-homepage.php:130 page-product-listing.php:225
+#: page-product-listing.php:308 single-product.php:454
+msgid "Toll-free"
+msgstr "Numéro de téléphone gratuit"
+
+#: page-3-simple-steps.php:190
+msgid ""
+"Is the <span class=\"brand\"><b>average time</b></span> from ordering your "
+"stairlift to having it installed"
+msgstr ""
+"C’est la <span class=\"brand\"><b>durée moyenne</b></span> entre la commande "
+"et l’installation de votre monte-escalier."
+
+#: page-3-simple-steps.php:194
+msgid "When you're ready we will..."
+msgstr ""
+"Vous souhaitez passer commande ? </br><b><span class=\"brand\">Stannah</"
+"span></b> est prêt."
+
+#: page-3-simple-steps.php:197
+msgid "Review your chosen order with you"
+msgstr "Vous êtes décidé ?"
+
+#: page-3-simple-steps.php:198
+msgid "We'll double check the product options you have chosen with you"
+msgstr ""
+"Nous parcourons votre commande dans les moindres détails, y compris toutes "
+"les options. Vous recevez ainsi exactement le monte-escalier dont vous "
+"rêviez."
+
+#: page-3-simple-steps.php:199
+msgid "Stannah advisor talks with customer"
+msgstr "Le conseiller Stannah parle avec un client"
+
+#: page-3-simple-steps.php:202
+msgid "If you're not sure what to choose?"
+msgstr "Vous doutez encore ?"
+
+#: page-3-simple-steps.php:203
+msgid "Don't worry thats why we are here to help you decide"
+msgstr ""
+"Pas de soucis. Nous parcourons avec plaisir les possibilités qui s’offrent à "
+"vous."
+
+#: page-3-simple-steps.php:204
+msgid ""
+"Our advisors or the representatives that visited you, are more than happy to "
+"talk through your options with you again in detail"
+msgstr ""
+"Nous discutons aussi volontiers de vos options par téléphone après une "
+"visite à domicile."
+
+#: page-3-simple-steps.php:207
+msgid "We are:"
+msgstr "Les conseillers Stannah sont :"
+
+#: page-3-simple-steps.php:209
+msgid "Friendly and open"
+msgstr "aimables et ouverts "
+
+#: page-3-simple-steps.php:210
+msgid "Experts in mobility"
+msgstr "experts en mobilité et en liberté de mouvement"
+
+#: page-3-simple-steps.php:211
+msgid "We're not pushy, we just want to make the right choice"
+msgstr "serviables et non intrusifs"
+
+#: page-3-simple-steps.php:221
+msgid "Ready to put your life back on track?"
+msgstr "Améliorez votre qualité de vie à domicile"
+
+#: page-3-simple-steps.php:222
+msgid ""
+"Within 3 to 10 days*, you can be getitng up and down stairs smoothly. Make "
+"an appointment for a free consultation with one of our experts."
+msgstr ""
+"N’attendez pas trop longtemps pour installer un monte-escalier : prenez "
+"rendez-vous sans engagement avec notre expert. Vos escaliers ne seront plus "
+"un obstacle d’ici trois à dix jours !\r"
+
+#: page-3-simple-steps.php:223 page-3-simple-steps.php:343
+msgid "* Depending on your staircase"
+msgstr "* En fonction de votre escalier"
+
+#: page-3-simple-steps.php:227
+msgid "Call our advisors for FREE"
+msgstr "Appelez gratuitement un expert"
+
+#: page-3-simple-steps.php:236
+msgid "Next step:"
+msgstr "<em>Étape 3 :</em>"
+
+#: page-3-simple-steps.php:247
+msgid "It will only take about half a day."
+msgstr "Installé en une demi-journée"
+
+#: page-3-simple-steps.php:255
+msgid ""
+"Is the <span class=\"brand\">average</span> time to install your stairlift "
+"after the technician arrives at your home"
+msgstr ""
+"la <span class=\"brand\">durée moyenne</span> d’installation d’un monte-"
+"escalier Stannah."
+
+#: page-3-simple-steps.php:267
+msgid "The <b>installation process.</b>"
+msgstr "<b>Procédure d’installation</b>"
+
+#: page-3-simple-steps.php:273
+msgid "Stannah technician installs a new Stairlift for a couple"
+msgstr ""
+"Le technicien Stannah installe un nouveau monte-escaliers pour un couple"
+
+#: page-3-simple-steps.php:290
+msgid "Stannah technician fits Stairlift"
+msgstr "Le technicien Stannah pose le monte-escaliers"
+
+#: page-3-simple-steps.php:293
+msgid "Stannah technician adjusts Stairlift to users"
+msgstr ""
+"Le technicien Stannah configure le monte-escaliers selon les utilisateurs"
+
+#: page-3-simple-steps.php:296
+msgid "Stannah technician give users a demonstration"
+msgstr "Le technicien Stannah donne une démonstration aux utilisateurs"
+
+#: page-3-simple-steps.php:316
+msgid "<span>24/7</span> Support"
+msgstr "<b><span>1 jour</span></b>"
+
+#: page-3-simple-steps.php:319
+msgid ""
+"Whether it’s a new installation or regular maintenance, you can always "
+"expect the highest level of experience and professionalism when working with "
+"Stannah"
+msgstr "En cas d’urgence, votre technicien se rend chez vous le jour même.\r"
+
+#: page-3-simple-steps.php:327
+msgid "What you're getting"
+msgstr "Garantie et assistance :"
+
+#: page-3-simple-steps.php:333
+msgid "Stannah technician fitting Stair lift"
+msgstr "Améliorez votre qualité de vie à domicile"
+
+#: page-3-simple-steps.php:341
+msgid "Ready to take control of your stairs?"
+msgstr "Améliorez votre qualité de vie à domicile"
+
+#: page-3-simple-steps.php:342
+msgid ""
+"Within three to ten days*, you can be gliding up and down stairs comfortably."
+msgstr ""
+"Vos escaliers ne seront plus un obstacle d’ici trois à dix jours ! "
+"N’attendez pas trop longtemps pour installer un monte-escalier : "
+
+#: page-3-simple-steps.php:342
+msgid "Book an appointment with one of our friendly advisors now."
+msgstr "prenez rendez-vous sans engagement avec notre expert."
+
+#: page-3-simple-steps.php:347
+msgid ""
+"Call our advisors for FREE <span class=\"text-uppercase icon-label\"> Toll-"
+"free"
+msgstr ""
+"Appelez gratuitement un expert au<span class=\"text-uppercase icon-label\">"
+
+#: page-about.php:18
+msgid "About Stannah"
+msgstr "Leader mondial sur le marché des monte-escaliers"
+
+#: page-about.php:25
+msgid "Stannah old"
+msgstr "Stannah vieille photo"
+
+#: page-about.php:32
+msgid ""
+"We design, deliver, and install for <b>your peace of mind</b> and security!"
+msgstr ""
+"Nous concevons votre monte-escalier. Nous renforçons votre sécurité. Et nous "
+"vous offrons une <b>belle sérénité</b>."
+
+#: page-about.php:37
+msgid ""
+"<span>OVER</span>\n"
+"\t\t\t\t\t\t\t\t<span>150</span>\n"
+"\t\t\t\t\t\t\t\tyears experience in the lifting industry"
+msgstr ""
+"Plus de <span>150</span> ans d’expérience dans l’industrie du levage.\r"
+
+#: page-about.php:46
+msgid "What we do..."
+msgstr "Que faisons-nous ?"
+
+#: page-about.php:57
+msgid "Don’t just take if from us..."
+msgstr "Cap sur les témoignages de clients …"
+
+#: page-about.php:68 page-homepage.php:95 page-homepage.php:104
+msgid "See more customer stories"
+msgstr "Voir d'autres récits de clients"
+
+#: page-about.php:74
+msgid ""
+"Want to arange a <span>FREE no-obligation home assessment</span> or have "
+"questions?"
+msgstr ""
+"Vous avez une question ou vous souhaitez prendre un rendez-vous sans "
+"engagement ? "
+
+#: page-about.php:75
+msgid "Call our Friendly expert advisors for <span class=\"brand\">FREE on"
+msgstr "Appelez <span class=\"brand\">gratuitement</span> un conseiller au "
+
+#: page-about.php:81
+msgid "<span>1979...</span> was the year we shipped our first stairlift"
+msgstr "Nous avons vendu notre premier monte-escalier en<span> 1975</span>.\r"
+
+#: page-about.php:125
+msgid "Come and meet the <b><span class=\"brand\">Stannah</span></b> Family"
+msgstr ""
+"La garantie de <b><span class=\"brand\">Stannah</span></b> : </br>« Nous "
+"tenons toujours nos promesses » "
+
+#: page-about.php:132
+msgid ""
+"<p>Since 1975 <em>over <b>600,000</b></em> people have chosen <b class="
+"\"brand\">Stannah</b> as their stairlift provider</p>"
+msgstr ""
+"<p><b>Plus de 600.000</b> clients ont choisi un monte-escalier <b class="
+"\"brand\">Stannah</b> depuis 1975.</p>\r"
+
+#: page-contact-us.php:35
+msgid "How would you like to <b>contact us?</b>"
+msgstr "<b>Contactez Stannah</b>"
+
+#: page-contact-us.php:40
+msgid "Speak to our specialist advisors"
+msgstr "Posez votre question"
+
+#: page-contact-us.php:41
+msgid ""
+"Friendly <b class=\"brand\">Stannah</b> advisors are<br /> available to help "
+"you"
+msgstr ""
+"Votre conseiller <b class=\"brand\">Stannah</b> est<br /> à votre "
+"disposition 24 h/24. "
+
+#: page-contact-us.php:53
+msgid "Request a call back from an advisor"
+msgstr "Nous vous contactons"
+
+#: page-contact-us.php:55
+msgid "contact"
+msgstr "contact"
+
+#: page-contact-us.php:55
+msgid "contact_sent"
+msgstr "contact_envoyé"
+
+#: page-contact-us.php:59
+msgid "Your name"
+msgstr "Votre nom"
+
+#: page-contact-us.php:65
+msgid "Prefered date for call"
+msgstr "Date de préférence"
+
+#: page-contact-us.php:66
+msgid "Date"
+msgstr "Date"
+
+#: page-contact-us.php:71
+msgid "Your phone number"
+msgstr "Votre numéro de téléphone"
+
+#: page-contact-us.php:72
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: page-contact-us.php:77
+msgid "Prefered time for call"
+msgstr "Heure de préférence"
+
+#: page-contact-us.php:78
+msgid "Time"
+msgstr "Plage horaire"
+
+#: page-contact-us.php:78 page-contact-us.php:79
+msgid "Choose a time"
+msgstr "Choisissez une plage horaire"
+
+#: page-contact-us.php:84
+msgid "noon"
+msgstr "midi"
+
+#: page-contact-us.php:98
+msgid "Callback form"
+msgstr "Nous vous contactons"
+
+#: page-contact-us.php:98 page-help-and-advice.php:108 page-homepage.php:133
+#: page-product-listing.php:228 page-product-listing.php:311
+#: single-product.php:457
+msgid "Request a callback"
+msgstr "Demandez-nous de vous appeler"
+
+#: page-contact-us.php:102
+msgid "Thank you, your callback request has been sent."
+msgstr "Merci, votre demande de rappel a été envoyée."
+
+#: page-contact-us.php:110
+msgid "You can also contact us by"
+msgstr "Contactez"
+
+#: page-contact-us.php:110
+msgid "email"
+msgstr "Stannah"
+
+#: page-contact-us.php:111
+msgid "A Stannah repesentative will get back to you as soon as possible."
+msgstr ""
+"Contactez Stannah pour des conseils gratuits ou pour un rendez-vous sans "
+"engagement."
+
+#: page-contact-us.php:128
+msgid "Order a <b>FREE</b> <span class=\"brand\">Stannah</span> brochure"
+msgstr ""
+"Téléphonez-nous pour une documentation <b>gratuite</b> de <span "
+"class=“brand”>Stannah</span>"
+
+#: page-contact-us.php:132
+msgid "Stannah brochure"
+msgstr "Stannah brochure"
+
+#: page-contact-us.php:135 page-product-listing.php:275 single-product.php:506
+msgid ""
+"To get a brochure delivered to your door, please call us and we will send "
+"one to you."
+msgstr ""
+"Téléphonez-nous pour une documentation gratuite, celle-ci vous sera expédiée "
+"par courrier."
+
+#: page-contact-us.php:139
+msgid "Size:"
+msgstr "Taille "
+
+#: page-contact-us.php:139
+msgid "small"
+msgstr "petit"
+
+#: page-contact-us.php:139
+msgid "PDF format"
+msgstr "format PDF"
+
+#: page-customer-stories.php:17
+msgid "We've sold over"
+msgstr "Nous avons vendu plus de"
+
+#: page-customer-stories.php:17
+msgid "600,000 stairlifts"
+msgstr "600.000 monte-escaliers"
+
+#: page-customer-stories.php:17
+msgid "in"
+msgstr "dans"
+
+#: page-customer-stories.php:17
+msgid "40 countries"
+msgstr "50 pays."
+
+#: page-customer-stories.php:17
+msgid "worldwide.  Here are some of the reasons why..."
+msgstr "Voici quelques-unes des raisons…"
+
+#: page-customer-stories.php:33
+msgid ""
+"Here are some extracts from what genuine, happy &amp; satisfied customers "
+"have had to say to us."
+msgstr ""
+"Voici quelques extraits des témoignages d'authentiques clients heureux et "
+"satisfaits."
+
+#: page-customer-stories.php:63
+msgid "chose the"
+msgstr "choisit le"
+
+#: page-customer-stories.php:67
+msgid "Read more."
+msgstr "Lire plus"
+
+#: page-customer-stories.php:103
+msgid "'s story"
+msgstr " histoire"
+
+#: page-customer-stories.php:122
+msgid "Other Stories"
+msgstr "Autres récits"
+
+#: page-customer-stories.php:124
+msgctxt ""
+"The translation of your category for customer stories - this makes the "
+"listing work on the Customer stories and home page"
+msgid "Customer story"
+msgstr ""
+
+#: page-customer-stories.php:147
+msgid "There are no reviews on the site right now"
+msgstr "Il n'y a pas de critiques sur le site en ce moment"
+
+#: page-customer-stories.php:155
+msgid "See all customer stories"
+msgstr "Voir tous les récits de clients"
+
+#: page-customer-stories.php:162
+msgid "Your letters"
+msgstr "Lettres"
+
+#: page-customer-stories.php:164
+msgctxt ""
+"The translation of your category for customer letter - this makes the "
+"listing work on the Customer stories and home page"
+msgid "Customer letter"
+msgstr ""
+
+#: page-customer-stories.php:191
+msgid "There are no letters on the site right now"
+msgstr "Il n'y a pas de lettres sur le site en ce moment"
+
+#: page-customer-stories.php:201
+msgid "See all customer letters"
+msgstr "Voir toutes les lettres de clients"
+
+#: page-customer-stories.php:214
+msgid "Tell us your story"
+msgstr "Partagez votre récit"
+
+#: page-customer-stories.php:215
+msgid ""
+"Write and let us know what you think about your stair lift and how it's "
+"impacted your life."
+msgstr ""
+"Écrivez-nous et dites-nous ce que vous pensez de votre monte-escaliers et la "
+"manière dont il a changé votre vie."
+
+#: page-customer-stories.php:216
+msgid "Send us your story"
+msgstr "Envoyez-nous votre récit"
+
+#: page-customer-stories.php:250
+msgid ""
+"Join over <span>600,000 households</span> that have enjoyed the new life "
+"that a Stannah Stairlift brings"
+msgstr ""
+"Rejoignez plus de <span>600.000 foyers</span> qui profitent déjà d'une "
+"nouvelle vie avec un monte-escaliers Stannah."
+
+#: page-customer-stories.php:251
+msgid ""
+"Within three to ten days, you can be gliding up and down stairs comfortably."
+msgstr "Vos escaliers ne seront plus un obstacle d’ici trois à dix jours !"
+
+#: page-customer-stories.php:251
+msgid "Book an appointment with one of our friendly advisors now"
+msgstr "Prenez rendez-vous pour une visite sans engagement"
+
+#: page-customer-stories.php:255
+msgid "Call our friendly advisors for <b>FREE</b> on"
+msgstr "Appelez <b>gratuitement</b> un expert au"
+
+#: page-help-and-advice.php:19
+msgid "Our commitment to service starts with <b>our advice</b>."
+msgstr "Les conseils : la base"
+
+#: page-help-and-advice.php:28
+msgid ""
+"Our phones get answered <b>24-hours</b> a day, seven days a week, 365 days a "
+"year. And, if there’s \n"
+"\t\t\t\t\t\tever a problem, our technicians are based locally, ready to help."
+msgstr ""
+"Notre service clientèle est à votre disposition <b>24 heures</b> par jour et "
+"365 jours par an. Vous avez une urgence ? Un technicien se rend chez vous le "
+"jour même. \r"
+
+#: page-help-and-advice.php:42
+msgid "Buying a stairlift for <b>family or friends</b>?"
+msgstr ""
+"Vous cherchez un monte-escalier pour <b>un membre de votre famille ou un "
+"ami</b> ?"
+
+#: page-help-and-advice.php:57
+msgid ""
+"<span style=\"font-size:1.65em;\">98<span>%</span></span><br /> of our "
+"customers<br /> would<br /> recommend us"
+msgstr ""
+"<span style=\"font-size:1.65em;\">98<span>%</span></span><br /> de nos "
+"clients<br /> recommandent Stannah"
+
+#: page-help-and-advice.php:62
+msgid ""
+"Try pointing out these facts about <b class=\"brand\">Stannah</b> "
+"stairlifts..."
+msgstr ""
+"Présentez les avantages d’un monte-escalier à votre famille et vos amis."
+
+#: page-help-and-advice.php:97
+msgid "Help them to get their life back on track?"
+msgstr "Demandez plus de conseils"
+
+#: page-help-and-advice.php:98
+msgid ""
+"<b>No obligation, no pressure to buy.</b> We’re here to help with any "
+"questions that you \n"
+"\t\t\t\t\tmight have to help you inform your friends and family about the "
+"benefits of a stairlift."
+msgstr ""
+"Vous ne savez pas encore quel monte-escalier choisir ? Pour vous, un membre "
+"de votre famille qui vous est cher ou un ami ? Nous comprenons votre "
+"position. C’est pourquoi nous vous recommandons de prendre contact avec un "
+"conseiller. Appelez-le gratuitement, expliquez-lui votre situation et "
+"recevez des conseils sans engagement. Très simple, très précieux. À l’image "
+"de Stannah."
+
+#: page-help-and-advice.php:103 page-homepage.php:128
+#: page-product-listing.php:223 page-product-listing.php:306
+#: single-product.php:452
+msgid "Call our friendly advisors now"
+msgstr "Contactez notre service commercial"
+
+#: page-help-and-advice.php:107 page-homepage.php:132
+#: page-product-listing.php:227 page-product-listing.php:310
+#: single-product.php:456
+msgid "or"
+msgstr "ou"
+
+#: page-help-and-advice.php:152 page-homepage.php:222
+#: page-product-listing.php:266 single-product.php:496
+msgid "See more details about the steps"
+msgstr "Vers la procédure détaillée"
+
+#: page-help-and-advice.php:169
+msgid ""
+"What to look out for in a <b>stairlift</b> &amp; a <b>stairlift provider</b>"
+msgstr "Comment comparer les marques et les modèles de monte-escaliers ?"
+
+#: page-help-and-advice.php:170
+msgid ""
+"We know you will want to shop around, so to help you here are a few things  "
+"to consider when looking for the right stairlift:"
+msgstr ""
+"Vous souhaitez faire le meilleur choix. Logique. Mais comment entamer votre "
+"recherche d’un monte-escalier ? Suivez ces quatre conseils :"
+
+#: page-homepage.php:74
+msgid "More about Stannah"
+msgstr "En savoir plus sur Stannah"
+
+#: page-homepage.php:75
+msgid "Read our advice on getting a Stairlift"
+msgstr "Besoin d’aide et de conseils ?"
+
+#: page-homepage.php:82
+msgid "See what <b>Stannah</b> customers say about us"
+msgstr "Témoignages de clients à propos de <b>Stannah</b>"
+
+#: page-homepage.php:123
+msgid "<b>Got a question</b> or need help deciding?"
+msgstr "Quel monte-escalier convient le mieux à votre habitation ?"
+
+#: page-homepage.php:124
+msgid "Call our expert team of friendly advisors now to discuss your needs."
+msgstr "Demandez conseil à un expert de Stannah, sans engagement."
+
+#: page-homepage.php:139
+msgid "Alternatively..."
+msgstr "Recevez-nous chez vous"
+
+#: page-homepage.php:141
+msgid "You can"
+msgstr "VISITE ET OFFRE GRATUITES<br /><br />"
+
+#: page-homepage.php:141
+msgid "book a no obligation FREE stairlift assessment"
+msgstr ""
+"Un conseiller prête une oreille attentive à vos souhaits, analyse votre "
+"escalier et établit une offre sans engagement.</br>"
+
+#: page-homepage.php:141
+msgid ""
+"at your home from one of our friendly advisors, who will be able to give you "
+"an exact quote for your needs."
+msgstr "Demandez une visite."
+
+#: page-homepage.php:228
+msgid "Over <br /><span>600,000</span></span> installations <br /> worldwide"
+msgstr "<span>600.000</span><br/>\rmonte-escaliers<br/> installés\r"
+
+#: page-homepage.php:239
+msgctxt ""
+"The translation of your category for news - this makes the listing work on "
+"the homepage"
+msgid "News"
+msgstr ""
+
+#: page-homepage.php:239
+msgctxt ""
+"The translation of your category for customer stories - this makes the "
+"listing work on the Customer stories and homepage page"
+msgid "Customer story"
+msgstr ""
+
+#: page-homepage.php:253
+msgid "The latest from <b class=\"brand\">Stannah</b>"
+msgstr "L’actualité récente de <b class=\"brand\">Stannah</b>"
+
+#: page-homepage.php:272
+msgid "News"
+msgstr "Actualités"
+
+#: page-homepage.php:291
+msgid "Customer review"
+msgstr "Critique de client"
+
+#: page-homepage.php:313
+msgid "See more news"
+msgstr "Voir plus d'actualités"
+
+#: page-homepage.php:333
+msgid "See what our customers say about us..."
+msgstr "Découvrez ce que nos clients disent de nous…"
+
+#: page-homepage.php:355
+msgid "See all our customer stories"
+msgstr "Voir tous les récits de nos clients"
+
+#: page-product-listing.php:42
+msgid ""
+"Since 1975 <em>over <b>600,000</b></em> people have chosen <b class=\"brand"
+"\">Stannah</b> as their stairlift provider"
+msgstr ""
+"Depuis 1975, <em>plus de <b>600.000</b></em> personnes ont choisi <b class="
+"\"brand\">Stannah</b> comme fournisseur de monte-escaliers."
+
+#: page-product-listing.php:107
+msgid "Learn more about the"
+msgstr "En savoir plus sur le"
+
+#: page-product-listing.php:117
+msgid "Key benefits:"
+msgstr "Avantages"
+
+#: page-product-listing.php:122
+msgid "Suitable for:"
+msgstr "Convient aux"
+
+#: page-product-listing.php:125 single-product.php:136
+msgctxt "This letter is the key for \"Straight Stairs\" on Product pages"
+msgid "S"
+msgstr "D"
+
+#: page-product-listing.php:125 single-product.php:136
+msgid "Straight stairs"
+msgstr "Escaliers droits"
+
+#: page-product-listing.php:128 single-product.php:139
+msgctxt "This letter is the key for \"Curved Stairs\" on Product pages"
+msgid "C"
+msgstr "V"
+
+#: page-product-listing.php:128 single-product.php:139
+msgid "Curved stairs"
+msgstr "Escaliers à virages"
+
+#: page-product-listing.php:131 single-product.php:142
+msgctxt "This letter is the key for \"Narrow Stairs\" on Product pages"
+msgid "N"
+msgstr "E"
+
+#: page-product-listing.php:131 single-product.php:142
+msgid "Narrow stairs"
+msgstr "Escaliers étroits"
+
+#: page-product-listing.php:134
+msgctxt "This letter is the key for \"Outdoor Stairs\" on Product pages"
+msgid "O"
+msgstr "E"
+
+#: page-product-listing.php:134
+msgid "Outdoor stairs"
+msgstr "Escaliers extérieurs"
+
+#: page-product-listing.php:141
+msgid "Styling options:"
+msgstr "Coloris"
+
+#: page-product-listing.php:183
+msgid "Read about"
+msgstr "Lire à propos de"
+
+#: page-product-listing.php:197
+msgid "Read more stories"
+msgstr "Lire plus de récits"
+
+#: page-product-listing.php:217 page-product-listing.php:300
+msgid "We're here to help"
+msgstr "Nous sommes là pour vous aider"
+
+#: page-product-listing.php:218 page-product-listing.php:301
+msgid ""
+"Our knowledgeable experts can help you choose the right stairlift for you or "
+"a loved one, without obligation."
+msgstr ""
+"Nos experts aguerris peuvent vous aider à choisir le bon monte-escaliers "
+"pour vous ou un proche, sans obligation."
+
+#: page-product-listing.php:270
+msgid "Order a<br /><b>Stannah</b> brochure"
+msgstr "Demandez une brochure"
+
+#: page-product-listing.php:276 single-product.php:507
+msgid ""
+"You'll be able to securely download a PDF brochure on the next screen as "
+"well as choosing to have one delivered to your door - Most brochures are "
+"delivered within 3 working days."
+msgstr ""
+"Téléchargez la brochure au format PDF sur l’écran suivant ou choisissez un "
+"envoi par la poste. Vous recevrez votre brochure environ trois jours plus "
+"tard."
+
+#: page-warrenty.php:46
+msgid "Your Full Name*"
+msgstr "Votre nom complet*"
+
+#: page-warrenty.php:50
+msgid "Address of stairlift installation*"
+msgstr "Adresse d'installation du monte-escaliers*"
+
+#: page-warrenty.php:51
+msgid "Address"
+msgstr "Votre adresse"
+
+#: page-warrenty.php:54
+msgid "Your phone number*"
+msgstr "Votre numéro de téléphone*"
+
+#: page-warrenty.php:58
+msgid "Your email address"
+msgstr "Votre adresse e-mail"
+
+#: page-warrenty.php:62
+msgid "Date of Stairlift installation*"
+msgstr "Date d'installation du monte-escaliers*"
+
+#: page-warrenty.php:63
+msgid "installDate"
+msgstr "Dateinstall"
+
+#: page-warrenty.php:66
+msgid "Carridge serial number*"
+msgstr "Numéro de série de la nacelle*"
+
+#: page-warrenty.php:67
+msgid "Avaliable from your installer. Serial number beings with \"U\"."
+msgstr ""
+"Disponible auprès de votre installateur. Le numéro de série commence par \"U"
+"\"."
+
+#: page-warrenty.php:68
+msgid "SerialNumber"
+msgstr "Numéro de série"
+
+#: page-warrenty.php:71
+msgid "Your Stannah stairlift dealer*"
+msgstr "Votre distributeur de monte-escaliers Stannah*"
+
+#: page-warrenty.php:72
+msgid "DealerName"
+msgstr "NomDistributeur"
+
+#: page-warrenty.php:77
+msgid "Warranty Registration"
+msgstr "Enregistrement de la garantie"
+
+#: page-warrenty.php:77
+msgid "Send"
+msgstr "Envoyer"
+
+#: page-warrenty.php:82
+msgid "Your warranty form will now be processed."
+msgstr "Votre formulaire de garantie va être traité."
+
+#: single-product.php:39
+msgid "Meet"
+msgstr "Découvrez le"
+
+#: single-product.php:83
+msgid "View more images &amp; videos"
+msgstr "Voir plus de photos et de vidéos"
+
+#: single-product.php:88
+msgid "Book a FREE no-obligation appointment now!"
+msgstr "Réservez maintenant votre visite - gratuite et sans engagement.\r"
+
+#: single-product.php:90
+msgid "Call our friendly advisors FREE on"
+msgstr "Appelez gratuitement un expert au"
+
+#: single-product.php:102
+msgid "Key features &amp; benefits"
+msgstr "Avantages"
+
+#: single-product.php:108
+msgid "Customisable! It's your choice"
+msgstr "Styles"
+
+#: single-product.php:110
+msgid "Upholstery color"
+msgstr "Couleur"
+
+#: single-product.php:129
+msgid "View all options"
+msgstr "Plus de coloris"
+
+#: single-product.php:133
+msgid "Suitable for / Dimensions"
+msgstr "Convient aux"
+
+#: single-product.php:150
+msgid "View detailed specification"
+msgstr "Plus de spécificités"
+
+#: single-product.php:162
+msgid "What our experts say about the"
+msgstr "Notre expert parle de"
+
+#: single-product.php:194
+msgid "How much does a <span class=\"brand\">Stairlift cost?</span>"
+msgstr "Combien coûte un monte-escalier ?"
+
+#: single-product.php:204
+msgid "Call our experts for <b>FREE</b> on<br>"
+msgstr "Appelez un expert au"
+
+#: single-product.php:206
+msgid "and make an appointment for a custom quote."
+msgstr "pour un rendez-vous gratuit et une offre sans engagement.\r"
+
+#: single-product.php:214
+msgid ""
+"Our customers share their stairlift <b>requirements</b> and <b>prices</b> "
+"with you"
+msgstr "Faites-vous une idée du prix grâce aux témoignages de nos clients"
+
+#: single-product.php:251
+msgid "Key benefits"
+msgstr "Plus d’avantages"
+
+#: single-product.php:285
+msgid "Detailed Specification"
+msgstr "plus d’avantages"
+
+#: single-product.php:287
+msgid "Design"
+msgstr "Conception"
+
+#: single-product.php:288
+msgid "Power"
+msgstr "Énergie"
+
+#: single-product.php:289
+msgid "Safety"
+msgstr "Sécurité"
+
+#: single-product.php:342
+msgid "Gallery"
+msgstr "Galerie de photos"
+
+#: single-product.php:371
+msgid "Customise your"
+msgstr "Plus de coloris pour votre"
+
+#: single-product.php:372
+msgid "You can choose from the following options"
+msgstr "Déterminez la matière et le coloris de votre monte-escalier."
+
+#: single-product.php:391
+msgid ""
+"Click on the swatches below to update the style of the stairlift on the left "
+"handside."
+msgstr "Cliquez sur les échantillons pour modifier votre monte-escalier."
+
+#: single-product.php:445
+msgid "Book a no obligation <b>FREE</b> home assessment"
+msgstr "Prenez <b>gratuitement</b> rendez-vous"
+
+#: single-product.php:446
+msgid ""
+"<b>Why wait to recapture the enjoyment of your home?</b><br>Arrange for an "
+"advisor to come and visit you to discuss the options available."
+msgstr ""
+"<b>« J’aurais dû prendre cette décision plus tôt »,</b></br> nous disent "
+"constamment nos clients. L’investissement reste identique, mais vous pouvez "
+"profiter dès aujourd’hui d’un confort optimal chez vous."
+
+#: single-product.php:448
+#, php-format
+msgid "Or <a href=\"%s\">book an appointment now online"
+msgstr "Ou <a href=\"%s\">réservez maintenant votre visite en ligne."
+
+#: single-product.php:501
+msgid "Order a<br /> <b>Stannah</b> brochure"
+msgstr "Demandez une<br /> brochure  <b>Stannah</b>"
+
+#. Theme Name of the plugin/theme
+msgid "Stannah Whitelabel"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blueprint for more Stannah sites after US site - 2015"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bunnyfoot"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://bunnyfoot.com/"
+msgstr ""
+
+#~ msgid "Download or order a<br /> <b>Stannah</b> brochure"
+#~ msgstr "Demandez une brochure"
+
+#~ msgid ""
+#~ "To download a brochure or get one delivered to your door, please complete "
+#~ "the small form below."
+#~ msgstr ""
+#~ "Vous souhaitez télécharger la brochure Stannah ? Ou vous préférez la "
+#~ "recevoir par courrier ? Saisissez vos coordonnées ci-dessous."
+
+#~ msgid "process"
+#~ msgstr "processus"
+
+#~ msgid "brochure_options"
+#~ msgstr "options_brochure"
+
+#~ msgid "Optional"
+#~ msgstr "Facultatif"
+
+#~ msgid "Brochure request"
+#~ msgstr "Demande de brochure"
+
+#~ msgid "Submit brochure request"
+#~ msgstr "Envoyer la demande de brochure"
+
+#~ msgid "Thank you, your brochure request has been sent."
+#~ msgstr "Merci, votre demande de brochure a été envoyée."
+
+#~ msgid ""
+#~ "Download or order a <b>FREE</b> <span class=\"brand\">Stannah</span> "
+#~ "brochure"
+#~ msgstr "Téléchargez ou demandez une brochure"
+
+#~ msgid "Austrailia"
+#~ msgstr "Australie"
+
+#~ msgid "Austrailia (Western)"
+#~ msgstr "Australie (Occidentale)"
+
+#~ msgid "Czech Republic (Stannah)"
+#~ msgstr "République Tchèque (Stannah)"
+
+#~ msgid "Poland"
+#~ msgstr "Pologne"
+
+#~ msgid "Republic of Ireland"
+#~ msgstr "République d'Irlande"
+
+#~ msgid ""
+#~ "<span>98<span>%</span></span>\n"
+#~ "\t\t\t\t\t\t\tof our customers<br /> would<br /> recommend us"
+#~ msgstr "</br><span>98 %</span> de nos clients recommandent Stannah\r"
+
+#~ msgid "Showing:"
+#~ msgstr "Choix :"
+
+#~ msgid "All Stairs"
+#~ msgstr "Tous les Escaliers"
+
+#~ msgid "Straight Stairs"
+#~ msgstr "Escaliers Droits"
+
+#~ msgid "Curved Stairs"
+#~ msgstr "Escaliers à Virage"
+
+#~ msgid "Outdoor Stairs"
+#~ msgstr "Escaliers Extérieurs"
+
+#~ msgid "book an appointment now online"
+#~ msgstr ""
+#~ "notre conseiller se rend chez vous gratuitement et sans engagement pour "
+#~ "évoquer les possibilités qui s’offrent à vous."
+
+#~ msgid "Book a FREE no obligation home appointmentstannah-whitelabel"
+#~ msgstr "Prenez rendez-vous pour une visite gratuite"
+
+#~ msgid ""
+#~ "When our advisor visits your home, he or she will talk with you about "
+#~ "what you need out of a stairlift.stannah-whitelabel"
+#~ msgstr ""
+#~ "Vous appelez un conseiller Stannah ? Profitez-en pour convenir d’un "
+#~ "rendez-vous sans engagement. Un expert mesurera votre escalier et vous "
+#~ "présentera les types de monte-escaliers, les possibilités de finitions "
+#~ "ainsi que le déroulement de. <b>Appelez gratuitement le 0800 95 950</b>."
+
+#~ msgid "Appointments last aboutstannah-whitelabel"
+#~ msgstr "Une visite dure en moyenne"

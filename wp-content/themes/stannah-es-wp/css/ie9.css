@@ -1,0 +1,20 @@
+body {
+	border-top: 3px solid lime;	
+}
+
+.home {
+	border-top: 3px solid cyan;
+}
+
+.home .dealer-finder .current-local-dealer .table tr td.dealer-link, 
+.home .dealer-finder .current-local-dealer .table tr td.dealer-address, 
+.home .dealer-finder .current-local-dealer .table tr td.dealer-name  {
+	float: left;
+	border: 1px solid red;
+}
+
+.dealer-finder .current-local-dealer .table tr td.dealer-link, 
+.dealer-finder .current-local-dealer .table tr td.dealer-address, 
+.dealer-finder .current-local-dealer .table tr td.dealer-name  {
+	border: 1px solid hotpink;
+}

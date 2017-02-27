@@ -1,0 +1,1714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stannah Whitelabel\n"
+"POT-Creation-Date: 2016-09-15 16:25+0200\n"
+"PO-Revision-Date: 2016-09-23 15:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "404!"
+msgstr "404!"
+
+#: 404.php:13
+msgid "That page can&rsquo;t be found."
+msgstr "Deze pagina kan niet gevonden worden."
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Perhaps try the links at "
+"the top of page."
+msgstr ""
+"Het lijkt erop dat hier niets kon worden gevonden. Probeer eens met de links "
+"bovenaan de pagina."
+
+#: archive.php:58
+msgid "Latest news from Stannah"
+msgstr "Het laatste nieuws van Stannah"
+
+#: archive.php:61
+msgid "Here, you'll find what the"
+msgstr "Hier vindt u wat er over ons"
+
+#: archive.php:61
+msgid "press and other media"
+msgstr "in de pers en andere media"
+
+#: archive.php:61
+msgid ""
+"have said about us , plus stairlift news, what's happening at Stannah and "
+"other snippets of information. It's all here to keep you up to date with the "
+"world of Stannah stairlifts."
+msgstr ""
+"is verschenen; inclusief traplift nieuws, wat er bij Stannah gebeurt en "
+"andere informatie. Lees het allemaal hier om blijf up-to-date over de wereld "
+"van Stannah. "
+
+#: archive.php:75
+msgid "Select category"
+msgstr "Selecteer categorie"
+
+#: archive.php:84
+msgid "Show me: "
+msgstr "Toon mij:"
+
+#: archive.php:92
+msgid "View"
+msgstr "Bekijken"
+
+#: archive.php:99 archive.php:145
+msgid "SHOWING:"
+msgstr "Keuze: "
+
+#: archive.php:99 archive.php:145
+msgid "Items"
+msgstr "Items"
+
+#: archive.php:99 archive.php:145
+msgid "of"
+msgstr "van"
+
+#: archive.php:120 page-homepage.php:279 page-homepage.php:298
+#: page-product-listing.php:188 single-product.php:104
+msgid "Read more"
+msgstr "Lees meer"
+
+#: archive.php:123
+msgid "Calander icon:"
+msgstr "Kalender icoon:"
+
+#: archive.php:128
+msgid "Categories"
+msgstr "Categorieën"
+
+#: archive.php:134
+msgid "We don't have anything for you right now. Come back soon."
+msgstr "Momenteel hebben wij niets voor u. Kom snel terug."
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Gepubliceerd door"
+
+#: content.php:45
+msgid "POSTED BY"
+msgstr "GEPOST DOOR"
+
+#: content.php:50
+msgid "IN CATEGORY"
+msgstr "IN CATEGORIE"
+
+#: content.php:56
+msgid "TAGS"
+msgstr "TAGS"
+
+#: content.php:62 page.php:38
+msgid "SHARE"
+msgstr "DELEN"
+
+#: content.php:65 page.php:41
+msgid "Twitter"
+msgstr "Twitter"
+
+#: content.php:68 footer.php:19 page.php:44
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content.php:71
+msgid "Google plus"
+msgstr "Google plus"
+
+#: content.php:86
+msgid "Related stories"
+msgstr "Gelijkaardige items"
+
+#: content.php:103 page-customer-stories.php:134 page-customer-stories.php:178
+msgid "Read more..."
+msgstr "Lees meer…"
+
+#: footer.php:16
+msgid "Site map"
+msgstr "Sitemap"
+
+#: footer.php:17
+msgid "Privacy &amp; T&C's"
+msgstr "Privacy & voorwaarden"
+
+#: footer.php:18
+msgid "Contact us"
+msgstr "Contacteer ons"
+
+#: footer.php:20
+msgid "Youtube"
+msgstr "Youtube"
+
+#: footer.php:21 page.php:47
+msgid "Google+"
+msgstr "Google+"
+
+#: footer.php:32
+msgid "Contact details"
+msgstr "Contact"
+
+#: footer.php:38
+msgid "More ways to contact us"
+msgstr "Meer mogelijkheden om ons te contacteren"
+
+#: footer.php:44
+msgid "A stairlift in 3 simple steps"
+msgstr "In 3 stappen naar uw Stannah-traplift"
+
+#: footer.php:46 page-3-simple-steps.php:30
+msgid "Call our friendly advisors to discuss your options"
+msgstr "Bel uw adviseur en bespreek uw wensen"
+
+#: footer.php:47
+msgid "Book a no-obligation FREE assessment of your stairs"
+msgstr "Maak een afspraak voor een vrijblijvend bezoek"
+
+#: footer.php:48
+msgid "Quickly installed by trained and accredited technicians"
+msgstr "Laat uw traplift installeren"
+
+#: footer.php:51
+msgid "Learn more about the steps"
+msgstr "Meer informatie over de stappen "
+
+#: footer.php:55
+msgid "Why choose Stannah?"
+msgstr "Dáárom Stannah"
+
+#: footer.php:57
+msgid "Experienced local representatives and installers to serve your needs"
+msgstr "Altijd topkwaliteit"
+
+#: footer.php:58
+msgid "Experienced local representatives &amp; installers"
+msgstr "Volledig aanpasbaar en voor elk type trap"
+
+#: footer.php:59
+msgid ""
+"Safety features included as standard, and sensible options to meet your needs"
+msgstr "Eenvoudige installatie"
+
+#: footer.php:60
+msgid "Excellent warranty"
+msgstr "Voortdurende ondersteuning"
+
+#: footer.php:63
+msgid "Learn more about Stannah"
+msgstr "Meer over Stannah"
+
+#: footer.php:67
+msgid "International Stannah sites:"
+msgstr "Stannah in het buitenland"
+
+#: footer.php:68
+msgid "...Choose Country"
+msgstr "Kies land"
+
+#: footer.php:69
+msgid "Choose Country"
+msgstr "Kies land"
+
+#: footer.php:70
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: footer.php:71
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: footer.php:72
+msgid "Austrailia - NSW"
+msgstr "Australië - NSW"
+
+#: footer.php:73
+msgid "Austrailia - Queensland"
+msgstr "Australië - Queensland"
+
+#: footer.php:74
+msgid "Austrailia - Victoria"
+msgstr "Australië - Victoria"
+
+#: footer.php:75
+msgid "Austrailia - Southern"
+msgstr "Australië - Zuid"
+
+#: footer.php:76
+msgid "Austrailia - Western"
+msgstr "Australië - West"
+
+#: footer.php:77
+msgid "Austria"
+msgstr "Oostenrijk"
+
+#: footer.php:78
+msgid "Beijing"
+msgstr "Peking"
+
+#: footer.php:79
+msgid "Belgium"
+msgstr "België"
+
+#: footer.php:80
+msgid "Brazil"
+msgstr "Brazilië"
+
+#: footer.php:81
+msgid "Channel Islands"
+msgstr "Kanaaleilanden"
+
+#: footer.php:82
+msgid "Chile"
+msgstr "Chili"
+
+#: footer.php:83
+msgid "Colombia"
+msgstr "Colombia"
+
+#: footer.php:84
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: footer.php:85
+msgid "Czech Republic"
+msgstr "Tsjechië"
+
+#: footer.php:86
+msgid "Denmark"
+msgstr "Denemarken"
+
+#: footer.php:87
+msgid "Finland"
+msgstr "Finland"
+
+#: footer.php:88
+msgid "France"
+msgstr "Frankrijk"
+
+#: footer.php:89
+msgid "Germany"
+msgstr "Duitsland"
+
+#: footer.php:90
+msgid "Greece"
+msgstr "Griekenland"
+
+#: footer.php:91
+msgid "Holland"
+msgstr "Nederland"
+
+#: footer.php:92
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: footer.php:93
+msgid "Hungary"
+msgstr "Hongarije"
+
+#: footer.php:94
+msgid "Israel"
+msgstr "Israël"
+
+#: footer.php:95
+msgid "Italy"
+msgstr "Italië"
+
+#: footer.php:96
+msgid "Japan"
+msgstr "Japan"
+
+#: footer.php:97
+msgid "Luxemburg"
+msgstr "Luxemburg"
+
+#: footer.php:98
+msgid "Malta"
+msgstr "Malta"
+
+#: footer.php:99
+msgid "Mexico (South/central)"
+msgstr "Mexico (Zuid/Centraal) "
+
+#: footer.php:100
+msgid "Mexico (North)"
+msgstr "Mexico (Noord)"
+
+#: footer.php:101
+msgid "New Zealand"
+msgstr "Nieuw-Zeeland"
+
+#: footer.php:102
+msgid "Northern Ireland"
+msgstr "Noord-Ierland"
+
+#: footer.php:103
+msgid "Norway"
+msgstr "Noorwegen"
+
+#: footer.php:104
+msgid "Portugal"
+msgstr "Portugal"
+
+#: footer.php:105
+msgid "Singapore"
+msgstr "Singapore"
+
+#: footer.php:106
+msgid "Slovakia"
+msgstr "Slovakije"
+
+#: footer.php:107
+msgid "South Africa"
+msgstr "Zuid-Afrika"
+
+#: footer.php:108
+msgid "Spain"
+msgstr "Spanje"
+
+#: footer.php:109
+msgid "Sweden"
+msgstr "Zweden"
+
+#: footer.php:110
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+#: footer.php:111
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: footer.php:112
+msgid "Thailand"
+msgstr "Thailand"
+
+#: footer.php:113
+msgid "Turkey"
+msgstr "Turkije"
+
+#: footer.php:114
+msgid "UAE"
+msgstr "VAE"
+
+#: footer.php:115
+msgid "USA and Canada"
+msgstr "VS en Canada"
+
+#: footer.php:117
+msgid "Stannah.com"
+msgstr "Stannah.com"
+
+#: footer.php:126
+msgid "©Stannah Stairlifts Inc. 2015. All rights reserved."
+msgstr "©Stannah Stairlifts Inc. 2015. Alle rechten voorbehouden."
+
+#: functions.php:20
+msgid "Utilities bar"
+msgstr "Menu bar"
+
+#: functions.php:21
+msgid "Appears on all pages and posts above the header"
+msgstr "Verschijnt op alle pagina’s en posts boven de header"
+
+#: functions.php:48
+msgid "Products"
+msgstr "Producten"
+
+#: functions.php:49
+msgid "Product"
+msgstr "Product"
+
+#: functions.php:78
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: functions.php:84
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions.php:92
+msgid "Sent:"
+msgstr "Verzonden:"
+
+#: header.php:28 header.php:30 header.php:100 header.php:101
+msgid "Stannah"
+msgstr "Stannah"
+
+#: header.php:30
+msgid "The Stairlift People"
+msgstr "Trapliften voor elk Type Trap"
+
+#: header.php:109
+msgid "Stannah logo"
+msgstr "Stannah logo"
+
+#: header.php:111
+msgid "Got a question? Phone FREE"
+msgstr "Bel gratis een adviseur"
+
+#: header.php:112
+msgid "Friendly UK advisors available 24 hours a day"
+msgstr "Uw Stannah-adviseur staat steeds voor u klaar."
+
+#: header.php:128
+msgid "Menu"
+msgstr "Menu"
+
+#: image.php:73
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Gepubliceerd in</span><span class=\"post-title\">"
+"%title</span>"
+
+#: includes/brochure-modals.php:4 includes/brochure-modals.php:60
+msgid "Ok, got it. Close"
+msgstr "Ok, begrepen. Sluiten"
+
+#: includes/brochure-modals.php:8
+msgid "Brochure"
+msgstr "Brochure"
+
+#: includes/brochure-modals.php:11 page-contact-us.php:138
+msgid "Download"
+msgstr "Download"
+
+#: includes/brochure-modals.php:12
+msgid "Please find your PDF download below."
+msgstr "Uw PDF download is onderaan te vinden."
+
+#: includes/brochure-modals.php:14 page-product-listing.php:279
+#: single-product.php:510
+msgid "Size: 43k (small) - PDF format"
+msgstr "Grootte: 43k (klein) - PDF formaat"
+
+#: includes/brochure-modals.php:16
+msgid "Or"
+msgstr "Of"
+
+#: includes/brochure-modals.php:20
+msgid "Mail me a copy"
+msgstr "Stuur een exemplaar naar mij op"
+
+#: includes/brochure-modals.php:21
+msgid "Fill in your address and we'll mail you a copy"
+msgstr "Vul uw adres in en wij sturen een exemplaar naar u op"
+
+#: includes/brochure-modals.php:24 page-contact-us.php:60 page-warrenty.php:47
+msgid "Name"
+msgstr "Uw naam"
+
+#: includes/brochure-modals.php:28 page-warrenty.php:59
+msgid "Email"
+msgstr "Uw e-mailadres"
+
+#: includes/brochure-modals.php:32 page-warrenty.php:55
+msgid "Tel"
+msgstr "Uw telefoonnummer "
+
+#: includes/brochure-modals.php:37
+msgid "Your address"
+msgstr "Uw adres"
+
+#: includes/brochure-modals.php:43
+msgid "Your zip code"
+msgstr "Uw postcode"
+
+#: includes/brochure-modals.php:44
+msgid "Zip"
+msgstr "Uw postcode"
+
+#: includes/brochure-modals.php:47
+msgid "Post Brochure request from:"
+msgstr "Post Brochure aanvraag van:"
+
+#: includes/brochure-modals.php:47
+msgid "Mail my Brochure"
+msgstr "Verstuur mijn brochure"
+
+#: includes/brochure-modals.php:61 page-warrenty.php:81
+msgid "Thank you"
+msgstr "Dank u "
+
+#: includes/brochure-modals.php:62
+msgid "Your brochure is in the mail and will be with you soon."
+msgstr ""
+"Uw brochure is verzonden per post en zal binnenkort bij u in de bus liggen."
+
+#: includes/range-teaser.php:13
+msgid ""
+"A <b><span class=\"brand\">Stannah</span></b> stair lift will fit <b>any "
+"staircase</b>, wide, narrow, \n"
+"                        curved or straight"
+msgstr ""
+"Smalle of brede treden? Rechte of draaitrap? <b><span class=\"brand"
+"\">Stannah</span></b> heeft <b><br>geschikte traplift</b> voor uw huis.\r"
+
+#: includes/range-teaser.php:17
+msgid ""
+"<b><span>Our 3 most popular stairlifts:</span></b> Custom built to fit you "
+"&amp; your home - choices of <b>colors</b>, <b>fabrics</b> and <b>finishes</"
+"b>"
+msgstr ""
+"<b><span>Bekijk de 3 nieuwste trapliften</span></b> – en kies uw <b>kleur</"
+"b> en <b>bekleding</b>."
+
+#: includes/range-teaser.php:54
+msgid ""
+"<span>1975...</span>\n"
+"                    was the year we produced our first stairlift"
+msgstr "</br>Onze eerste traplift ging in <span>1975</span> de deur uit."
+
+#: includes/why-choose.php:8 page-about.php:93 page-homepage.php:160
+msgid "Why choose <b><span class=\"brand\">Stannah</span></b>..."
+msgstr "Waarom kiezen voor <b><span class=\"brand\">Stannah</span></b>?"
+
+#: includes/why-choose.php:26 page-about.php:111 page-homepage.php:178
+msgid "See more reasons to choose"
+msgstr "Meer over Stannah"
+
+#: page-3-simple-steps.php:18
+msgid "to a Stannah stairlift"
+msgstr "naar uw traplift"
+
+#: page-3-simple-steps.php:31
+msgid "Book a no-obligation FREE home assessment"
+msgstr "Maak een afspraak voor een vrijblijvend bezoek"
+
+#: page-3-simple-steps.php:32 page-3-simple-steps.php:236
+msgid "Installation by trained and accredited technicians"
+msgstr "Gekwalificeerde installateurs plaatsen én testen uw traplift"
+
+#: page-3-simple-steps.php:47
+msgid "We're here to help you"
+msgstr "Doe uw voordeel met 600.000-voudige ervaring"
+
+#: page-3-simple-steps.php:79 page-3-simple-steps.php:164
+#: page-help-and-advice.php:193
+msgid ""
+"To speak to our advisors or to book a <span>FREE no-obligation</span> "
+"appointment on a date and time that suits you call:"
+msgstr ""
+"Spreek een adviseur telefonisch of maak een afspraak voor een "
+"<span>vrijblijvend</span> bezoek.\r"
+
+#: page-3-simple-steps.php:83
+msgid "Speak to our friendly advisors now"
+msgstr "Bel nu gratis"
+
+#: page-3-simple-steps.php:94 page-3-simple-steps.php:179
+#: page-3-simple-steps.php:304 page-help-and-advice.php:27
+msgid "Did you know..."
+msgstr "Wist u dat…"
+
+#: page-3-simple-steps.php:95 page-3-simple-steps.php:180
+#: page-3-simple-steps.php:305
+msgid ""
+"Our phones get answered <b>24-hours a day</b>, seven days a week, 365 days a "
+"year. And, if there’s ever a problem, our technicians are based locally, "
+"ready to help."
+msgstr ""
+"Stannah nooit telefonisch een traplift verkoopt? Een adviseur komt altijd "
+"gratis bij u op bezoek. Alleen zo zijn we 100% zeker dat u een traplift "
+"krijgt die perfect aansluit bij uw woonsituatie en uw behoeften.\r"
+
+#: page-3-simple-steps.php:100
+msgid "<em>Next step:</em> Book a no-obligation FREE home assessment"
+msgstr "<em>Stap 2:</em> Maak een afspraak"
+
+#: page-3-simple-steps.php:111
+msgid "Book a FREE no obligation home appointment"
+msgstr "Maak een afspraak voor een gratis bezoek"
+
+#: page-3-simple-steps.php:112
+msgid ""
+"When our advisor visits your home, he or she will talk with you about what "
+"you need out of a stairlift."
+msgstr ""
+"Belt u met een Stannah-adviseur? Leg dan ook een vrijblijvende afspraak "
+"vast. Tijdens dat bezoek meet de expert uw trap op en vertelt hij over de "
+"soorten trapliften, de afwerkingsmogelijkheden en het verloop van de "
+"installatie. <b>Bel gratis 0800 95 950.</b>"
+
+#: page-3-simple-steps.php:116
+msgid "Appointments last about"
+msgstr "Een bezoek duurt gemiddeld"
+
+#: page-3-simple-steps.php:116
+msgid "or less depending on <span class=\"brand\">your</span> needs"
+msgstr "of minder, afhankelijk van uw vragen en vereisten.\r"
+
+#: page-3-simple-steps.php:124
+msgid "What is a stairlift assessment?"
+msgstr "Wat we doen"
+
+#: page-3-simple-steps.php:132
+msgid "What will happen during the appointment?"
+msgstr "Wat u te weten komt"
+
+#: page-3-simple-steps.php:138
+msgid ""
+"Your consultant will leave you with a fixed, written quotation that you can "
+"decide on in your own time."
+msgstr ""
+"Gebruik het gratis bezoek om al uw vragen te stellen. Uw adviseur vertelt u "
+"graag over de mogelijkheden in uw situatie.\r"
+
+#: page-3-simple-steps.php:143
+msgid "What will happen following the appointment"
+msgstr "Wat na het bezoek?"
+
+#: page-3-simple-steps.php:149
+msgid "Within"
+msgstr "</br>Binnen de"
+
+#: page-3-simple-steps.php:151
+msgid "We will be in touch<br /> to answer any<br /> questions"
+msgstr "bellen we u op. \r"
+
+#: page-3-simple-steps.php:168 page-contact-us.php:44
+#: page-help-and-advice.php:105 page-help-and-advice.php:197
+#: page-homepage.php:130 page-product-listing.php:225
+#: page-product-listing.php:308 single-product.php:454
+msgid "Toll-free"
+msgstr "Gratis telefoonnummer"
+
+#: page-3-simple-steps.php:190
+msgid ""
+"Is the <span class=\"brand\"><b>average time</b></span> from ordering your "
+"stairlift to having it installed"
+msgstr ""
+"is de <span class=\"brand\"><b>gemiddelde tijd</b></span> tussen de "
+"bestelling en de plaatsing van uw traplift.\r"
+
+#: page-3-simple-steps.php:194
+msgid "When you're ready we will..."
+msgstr ""
+"Wilt u bestellen?  <b><span class=\"brand\">Stannah</span></b> staat klaar."
+
+#: page-3-simple-steps.php:197
+msgid "Review your chosen order with you"
+msgstr "Besteld?"
+
+#: page-3-simple-steps.php:198
+msgid "We'll double check the product options you have chosen with you"
+msgstr ""
+"We overlopen uw bestelling tot in de puntjes, inclusief alle opties. Zodat u "
+"precies die traplift krijgt waarvan u droomde.\r"
+
+#: page-3-simple-steps.php:199
+msgid "Stannah advisor talks with customer"
+msgstr "Stannah adviseur praat met klant"
+
+#: page-3-simple-steps.php:202
+msgid "If you're not sure what to choose?"
+msgstr "Nog niet zeker?"
+
+#: page-3-simple-steps.php:203
+msgid "Don't worry thats why we are here to help you decide"
+msgstr "We bekijken uw mogelijkheden samen met u."
+
+#: page-3-simple-steps.php:204
+msgid ""
+"Our advisors or the representatives that visited you, are more than happy to "
+"talk through your options with you again in detail"
+msgstr ""
+"En dat doen we met veel plezier.\rOok na een bezoek aan huis bespreken we uw "
+"opties graag nog eens aan de telefoon.\r"
+
+#: page-3-simple-steps.php:207
+msgid "We are:"
+msgstr "Stannah-adviseurs zijn:"
+
+#: page-3-simple-steps.php:209
+msgid "Friendly and open"
+msgstr "vriendelijk en open"
+
+#: page-3-simple-steps.php:210
+msgid "Experts in mobility"
+msgstr "experts in mobiliteit en bewegingsvrijheid"
+
+#: page-3-simple-steps.php:211
+msgid "We're not pushy, we just want to make the right choice"
+msgstr "wel hulpvaardig, niet opdringerig"
+
+#: page-3-simple-steps.php:221
+msgid "Ready to put your life back on track?"
+msgstr "Haal weer meer levenskwaliteit in huis"
+
+#: page-3-simple-steps.php:222
+msgid ""
+"Within 3 to 10 days*, you can be getitng up and down stairs smoothly. Make "
+"an appointment for a free consultation with one of our experts."
+msgstr ""
+"Wacht niet langer dan nodig met een traplift: maak een vrijblijvende "
+"afspraak met onze expert. Drie tot tien dagen later is uw trap geen obstakel "
+"meer! \r"
+
+#: page-3-simple-steps.php:223 page-3-simple-steps.php:343
+msgid "* Depending on your staircase"
+msgstr "*Afhankelijk van uw traplift"
+
+#: page-3-simple-steps.php:227
+msgid "Call our advisors for FREE"
+msgstr "Bel nu gratis met een expert"
+
+#: page-3-simple-steps.php:236
+msgid "Next step:"
+msgstr "<em>Stap 3:</em>"
+
+#: page-3-simple-steps.php:247
+msgid "It will only take about half a day."
+msgstr "Geïnstalleerd in een halve dag"
+
+#: page-3-simple-steps.php:255
+msgid ""
+"Is the <span class=\"brand\">average</span> time to install your stairlift "
+"after the technician arrives at your home"
+msgstr ""
+"is de <span class=\"brand\">gemiddelde</span> installatietijd van een "
+"Stannah-traplift."
+
+#: page-3-simple-steps.php:267
+msgid "The <b>installation process.</b>"
+msgstr "<b>Installatieproces</b>"
+
+#: page-3-simple-steps.php:273
+msgid "Stannah technician installs a new Stairlift for a couple"
+msgstr "Stannah installateur installeert een nieuwe Traplift voor een koppel"
+
+#: page-3-simple-steps.php:290
+msgid "Stannah technician fits Stairlift"
+msgstr "Stannah installateur monteert de Traplift"
+
+#: page-3-simple-steps.php:293
+msgid "Stannah technician adjusts Stairlift to users"
+msgstr "Stannah installateur past de Traplift aan de gebruikers aan"
+
+#: page-3-simple-steps.php:296
+msgid "Stannah technician give users a demonstration"
+msgstr "Stannah installateur geeft een demonstratie"
+
+#: page-3-simple-steps.php:316
+msgid "<span>24/7</span> Support"
+msgstr "<b><span>1 dag</span></b>"
+
+#: page-3-simple-steps.php:319
+msgid ""
+"Whether it’s a new installation or regular maintenance, you can always "
+"expect the highest level of experience and professionalism when working with "
+"Stannah"
+msgstr ""
+"Bij noodgevallen staat uw technicus dezelfde dag al bij u voor de deur.\r"
+
+#: page-3-simple-steps.php:327
+msgid "What you're getting"
+msgstr "Waarborg en ondersteuning:"
+
+#: page-3-simple-steps.php:333
+msgid "Stannah technician fitting Stair lift"
+msgstr "Stannah installateur monteert Traplift"
+
+#: page-3-simple-steps.php:341
+msgid "Ready to take control of your stairs?"
+msgstr "Haal weer meer levenskwaliteit in huis"
+
+#: page-3-simple-steps.php:342
+msgid ""
+"Within three to ten days*, you can be gliding up and down stairs comfortably."
+msgstr ""
+"Drie tot tien dagen later is uw trap geen obstakel meer! Wacht niet langer "
+"dan nodig met een traplift:"
+
+#: page-3-simple-steps.php:342
+msgid "Book an appointment with one of our friendly advisors now."
+msgstr "maak een vrijblijvende afspraak met onze expert.\r"
+
+#: page-3-simple-steps.php:347
+msgid ""
+"Call our advisors for FREE <span class=\"text-uppercase icon-label\"> Toll-"
+"free"
+msgstr "Bel nu gratis met een expert<span class=\"text-uppercase icon-label\">"
+
+#: page-about.php:18
+msgid "About Stannah"
+msgstr "Wereldwijd marktleider in trapliften"
+
+#: page-about.php:25
+msgid "Stannah old"
+msgstr "Stannah oud"
+
+#: page-about.php:32
+msgid ""
+"We design, deliver, and install for <b>your peace of mind</b> and security!"
+msgstr ""
+"We ontwikkelen uw traplift. We bouwen aan uw veiligheid. En we leveren uw "
+"<b>gemoedsrust</b>."
+
+#: page-about.php:37
+msgid ""
+"<span>OVER</span>\n"
+"\t\t\t\t\t\t\t\t<span>150</span>\n"
+"\t\t\t\t\t\t\t\tyears experience in the lifting industry"
+msgstr "Meer dan <span>150</span> jaar ervaring in de liftindustrie.\r"
+
+#: page-about.php:46
+msgid "What we do..."
+msgstr "Wat we doen"
+
+#: page-about.php:57
+msgid "Don’t just take if from us..."
+msgstr "Hoor het ook van een ander…"
+
+#: page-about.php:68 page-homepage.php:95 page-homepage.php:104
+msgid "See more customer stories"
+msgstr "Meer klantenervaringen"
+
+#: page-about.php:74
+msgid ""
+"Want to arange a <span>FREE no-obligation home assessment</span> or have "
+"questions?"
+msgstr "Hebt u een vraag of wilt u een vrijblijvende afspraak maken?"
+
+#: page-about.php:75
+msgid "Call our Friendly expert advisors for <span class=\"brand\">FREE on"
+msgstr "Bel <span class=\"brand\">gratis</span> met een adviseur: "
+
+#: page-about.php:81
+msgid "<span>1979...</span> was the year we shipped our first stairlift"
+msgstr "</br>Onze eerste traplift ging in <span>1975</span> de deur uit."
+
+#: page-about.php:125
+msgid "Come and meet the <b><span class=\"brand\">Stannah</span></b> Family"
+msgstr ""
+"De <b><span class=\"brand\">Stannah</span></b>-belofte: ‘We houden altijd "
+"woord’"
+
+#: page-about.php:132
+msgid ""
+"<p>Since 1975 <em>over <b>600,000</b></em> people have chosen <b class="
+"\"brand\">Stannah</b> as their stairlift provider</p>"
+msgstr ""
+"<p>Sinds 1975 kozen <em>meer dan <b>600.000</b></em>\rmensen voor een <b "
+"class=\"brand\">Stannah</b>-traplift.</p>\r"
+
+#: page-contact-us.php:35
+msgid "How would you like to <b>contact us?</b>"
+msgstr "<b>Contacteer Stannah</b>"
+
+#: page-contact-us.php:40
+msgid "Speak to our specialist advisors"
+msgstr "Stel nu uw vraag"
+
+#: page-contact-us.php:41
+msgid ""
+"Friendly <b class=\"brand\">Stannah</b> advisors are<br /> available to help "
+"you"
+msgstr ""
+"Uw <b class=\"brand\">Stannah</b>-adviseur staat<br /> steeds voor u klaar."
+
+#: page-contact-us.php:53
+msgid "Request a call back from an advisor"
+msgstr "Laat u opbellen"
+
+#: page-contact-us.php:55
+msgid "contact"
+msgstr "contact"
+
+#: page-contact-us.php:55
+msgid "contact_sent"
+msgstr "contact_verzonden"
+
+#: page-contact-us.php:59
+msgid "Your name"
+msgstr "Uw naam"
+
+#: page-contact-us.php:65
+msgid "Prefered date for call"
+msgstr "Voorkeurdatum"
+
+#: page-contact-us.php:66
+msgid "Date"
+msgstr "Datum"
+
+#: page-contact-us.php:71
+msgid "Your phone number"
+msgstr "Uw telefoonnummer"
+
+#: page-contact-us.php:72
+msgid "Telephone"
+msgstr "Telefoon"
+
+#: page-contact-us.php:77
+msgid "Prefered time for call"
+msgstr "Voorkeurtijdstip"
+
+#: page-contact-us.php:78
+msgid "Time"
+msgstr "Tijd"
+
+#: page-contact-us.php:78 page-contact-us.php:79
+msgid "Choose a time"
+msgstr "Kies een tijdstip"
+
+#: page-contact-us.php:84
+msgid "noon"
+msgstr "middag"
+
+#: page-contact-us.php:98
+msgid "Callback form"
+msgstr "Laat u opbellen "
+
+#: page-contact-us.php:98 page-help-and-advice.php:108 page-homepage.php:133
+#: page-product-listing.php:228 page-product-listing.php:311
+#: single-product.php:457
+msgid "Request a callback"
+msgstr "Laat ons u opbellen "
+
+#: page-contact-us.php:102
+msgid "Thank you, your callback request has been sent."
+msgstr "Dank u, uw aanvraag werd ingediend."
+
+#: page-contact-us.php:110
+msgid "You can also contact us by"
+msgstr "Contacteer"
+
+#: page-contact-us.php:110
+msgid "email"
+msgstr "Stannah"
+
+#: page-contact-us.php:111
+msgid "A Stannah repesentative will get back to you as soon as possible."
+msgstr ""
+"Contacteer Stannah voor gratis advies of om een vrijblijvende afspraak te "
+"maken."
+
+#: page-contact-us.php:128
+msgid "Order a <b>FREE</b> <span class=\"brand\">Stannah</span> brochure"
+msgstr ""
+"Vraag een <b>GRATIS</b><span class=“brand”> Stannah</span> brochure aan"
+
+#: page-contact-us.php:132
+msgid "Stannah brochure"
+msgstr "Stannah brochure"
+
+#: page-contact-us.php:135 page-product-listing.php:275 single-product.php:506
+msgid ""
+"To get a brochure delivered to your door, please call us and we will send "
+"one to you."
+msgstr ""
+"Bel ons voor een gratis documentatie, enkele dagen daarna, ontvangt U deze "
+"per post"
+
+#: page-contact-us.php:139
+msgid "Size:"
+msgstr "Grootte"
+
+#: page-contact-us.php:139
+msgid "small"
+msgstr "klein"
+
+#: page-contact-us.php:139
+msgid "PDF format"
+msgstr "PDF formaat"
+
+#: page-customer-stories.php:17
+msgid "We've sold over"
+msgstr "Wereldwijd hebben wij meer dan "
+
+#: page-customer-stories.php:17
+msgid "600,000 stairlifts"
+msgstr "600.000 trapliften"
+
+#: page-customer-stories.php:17
+msgid "in"
+msgstr "verkocht in "
+
+#: page-customer-stories.php:17
+msgid "40 countries"
+msgstr "50 landen."
+
+#: page-customer-stories.php:17
+msgid "worldwide.  Here are some of the reasons why..."
+msgstr "Enkele redenen leest u hier…"
+
+#: page-customer-stories.php:33
+msgid ""
+"Here are some extracts from what genuine, happy &amp; satisfied customers "
+"have had to say to us."
+msgstr ""
+"Hier leest u enkele verhalen van gelukkige en tevreden <b class=\"brand"
+"\">Stannah</b>-klanten."
+
+#: page-customer-stories.php:63
+msgid "chose the"
+msgstr "koos de"
+
+#: page-customer-stories.php:67
+msgid "Read more."
+msgstr "Lees meer"
+
+#: page-customer-stories.php:103
+msgid "'s story"
+msgstr " verhaal"
+
+#: page-customer-stories.php:122
+msgid "Other Stories"
+msgstr "Verhalen"
+
+#: page-customer-stories.php:124
+msgctxt ""
+"The translation of your category for customer stories - this makes the "
+"listing work on the Customer stories and home page"
+msgid "Customer story"
+msgstr ""
+
+#: page-customer-stories.php:147
+msgid "There are no reviews on the site right now"
+msgstr "Momenteel zijn er geen beoordelingen."
+
+#: page-customer-stories.php:155
+msgid "See all customer stories"
+msgstr "Lees alle verhalen"
+
+#: page-customer-stories.php:162
+msgid "Your letters"
+msgstr "Brieven"
+
+#: page-customer-stories.php:164
+msgctxt ""
+"The translation of your category for customer letter - this makes the "
+"listing work on the Customer stories and home page"
+msgid "Customer letter"
+msgstr ""
+
+#: page-customer-stories.php:191
+msgid "There are no letters on the site right now"
+msgstr "Momenteel zijn er geen brieven"
+
+#: page-customer-stories.php:201
+msgid "See all customer letters"
+msgstr "Lees alle brieven "
+
+#: page-customer-stories.php:214
+msgid "Tell us your story"
+msgstr "Vertel ons uw verhaal"
+
+#: page-customer-stories.php:215
+msgid ""
+"Write and let us know what you think about your stair lift and how it's "
+"impacted your life."
+msgstr ""
+"Vertel ons wat u van uw traplift vindt en de impact die het op uw leven "
+"heeft. "
+
+#: page-customer-stories.php:216
+msgid "Send us your story"
+msgstr "Stuur ons uw verhaal"
+
+#: page-customer-stories.php:250
+msgid ""
+"Join over <span>600,000 households</span> that have enjoyed the new life "
+"that a Stannah Stairlift brings"
+msgstr ""
+"Sluit je aan bij meer dan 600.000 huishoudens die al genieten van een nieuwe "
+"leven met een Stannah-traplift."
+
+#: page-customer-stories.php:251
+msgid ""
+"Within three to ten days, you can be gliding up and down stairs comfortably."
+msgstr "Drie tot tien dagen later is uw trap geen obstakel meer! "
+
+#: page-customer-stories.php:251
+msgid "Book an appointment with one of our friendly advisors now"
+msgstr "Maak een afspraak voor een vrijblijvend bezoek"
+
+#: page-customer-stories.php:255
+msgid "Call our friendly advisors for <b>FREE</b> on"
+msgstr "Bel nu <b>gratis</b> met een expert"
+
+#: page-help-and-advice.php:19
+msgid "Our commitment to service starts with <b>our advice</b>."
+msgstr "Alles begint bij advies"
+
+#: page-help-and-advice.php:28
+msgid ""
+"Our phones get answered <b>24-hours</b> a day, seven days a week, 365 days a "
+"year. And, if there’s \n"
+"\t\t\t\t\t\tever a problem, our technicians are based locally, ready to help."
+msgstr ""
+"onze klantendienst altijd voor u klaar staat – <b>24 uur</b> per dag, 365 "
+"dagen per jaar? En hebt u een noodgeval? Dan komt dezelfde dag nog een "
+"technicus bij u langs.\r"
+
+#: page-help-and-advice.php:42
+msgid "Buying a stairlift for <b>family or friends</b>?"
+msgstr "Zoekt u een traplift voor <b>een familielid of vriend</b>?"
+
+#: page-help-and-advice.php:57
+msgid ""
+"<span style=\"font-size:1.65em;\">98<span>%</span></span><br /> of our "
+"customers<br /> would<br /> recommend us"
+msgstr ""
+"<span style=\"font-size:1.65em;\">98<span>%</span></span><br /> van onze "
+"klanten<br /> raadt Stannah aan"
+
+#: page-help-and-advice.php:62
+msgid ""
+"Try pointing out these facts about <b class=\"brand\">Stannah</b> "
+"stairlifts..."
+msgstr ""
+"Wijs familie en vrienden op deze voordelen van een <b class=\"brand"
+"\">Stannah</b>-traplift:"
+
+#: page-help-and-advice.php:97
+msgid "Help them to get their life back on track?"
+msgstr "Vraag bijkomend advies"
+
+#: page-help-and-advice.php:98
+msgid ""
+"<b>No obligation, no pressure to buy.</b> We’re here to help with any "
+"questions that you \n"
+"\t\t\t\t\tmight have to help you inform your friends and family about the "
+"benefits of a stairlift."
+msgstr ""
+"Bent u er nog niet helemaal uit welke traplift de allerbeste keuze is? Voor "
+"u, een dierbaar familielid of een goede vriend? Dat begrijpen we. Daarom "
+"raden we u aan om contact op te nemen met een adviseur. U belt gratis, "
+"vertelt over uw situatie, en krijgt vrijblijvend advies. Heel eenvoudig, "
+"heel waardevol. Net als Stannah zelf.\r"
+
+#: page-help-and-advice.php:103 page-homepage.php:128
+#: page-product-listing.php:223 page-product-listing.php:306
+#: single-product.php:452
+msgid "Call our friendly advisors now"
+msgstr "Bel nu naar een adviseur "
+
+#: page-help-and-advice.php:107 page-homepage.php:132
+#: page-product-listing.php:227 page-product-listing.php:310
+#: single-product.php:456
+msgid "or"
+msgstr "of"
+
+#: page-help-and-advice.php:152 page-homepage.php:222
+#: page-product-listing.php:266 single-product.php:496
+msgid "See more details about the steps"
+msgstr "Naar het gedetailleerde stappenplan "
+
+#: page-help-and-advice.php:169
+msgid ""
+"What to look out for in a <b>stairlift</b> &amp; a <b>stairlift provider</b>"
+msgstr "Hoe vergelijkt u merken en modellen van trapliften?"
+
+#: page-help-and-advice.php:170
+msgid ""
+"We know you will want to shop around, so to help you here are a few things  "
+"to consider when looking for the right stairlift:"
+msgstr ""
+"U wilt natuurlijk de beste keuze maken. Maar hoe pakt u de zoektocht naar "
+"een traplift aan? Met deze vier tips:"
+
+#: page-homepage.php:74
+msgid "More about Stannah"
+msgstr "Meer over Stannah"
+
+#: page-homepage.php:75
+msgid "Read our advice on getting a Stairlift"
+msgstr "Krijg hulp en advies "
+
+#: page-homepage.php:82
+msgid "See what <b>Stannah</b> customers say about us"
+msgstr "Wat klanten over <b>Stannah</b> vertellen"
+
+#: page-homepage.php:123
+msgid "<b>Got a question</b> or need help deciding?"
+msgstr "Welke traplift is het meest geschikt voor úw woning?"
+
+#: page-homepage.php:124
+msgid "Call our expert team of friendly advisors now to discuss your needs."
+msgstr "Vraag een expert van Stannah vrijblijvend om advies."
+
+#: page-homepage.php:139
+msgid "Alternatively..."
+msgstr "Nodig ons uit"
+
+#: page-homepage.php:141
+msgid "You can"
+msgstr "GRATIS BEZOEK EN OFFERTE<br /><br />"
+
+#: page-homepage.php:141
+msgid "book a no obligation FREE stairlift assessment"
+msgstr ""
+"Een adviseur luistert naar uw wensen, analyseert uw trap, en stelt een "
+"vrijblijvende offerte op.</br>"
+
+#: page-homepage.php:141
+msgid ""
+"at your home from one of our friendly advisors, who will be able to give you "
+"an exact quote for your needs."
+msgstr "Vraag een bezoek aan."
+
+#: page-homepage.php:228
+msgid "Over <br /><span>600,000</span></span> installations <br /> worldwide"
+msgstr "<span>600.000</span><br/> geïnstalleerde <br/> trapliften"
+
+#: page-homepage.php:239
+msgctxt ""
+"The translation of your category for news - this makes the listing work on "
+"the homepage"
+msgid "News"
+msgstr "Nieuws"
+
+#: page-homepage.php:239
+msgctxt ""
+"The translation of your category for customer stories - this makes the "
+"listing work on the Customer stories and homepage page"
+msgid "Customer story"
+msgstr ""
+
+#: page-homepage.php:253
+msgid "The latest from <b class=\"brand\">Stannah</b>"
+msgstr "Het laatste nieuws van <b class=\"brand\">Stannah</b>"
+
+#: page-homepage.php:272
+msgid "News"
+msgstr "Nieuws"
+
+#: page-homepage.php:291
+msgid "Customer review"
+msgstr "Review"
+
+#: page-homepage.php:313
+msgid "See more news"
+msgstr "Meer nieuws"
+
+#: page-homepage.php:333
+msgid "See what our customers say about us..."
+msgstr "Wat klanten over ons vertellen"
+
+#: page-homepage.php:355
+msgid "See all our customer stories"
+msgstr "Lees alle verhalen"
+
+#: page-product-listing.php:42
+msgid ""
+"Since 1975 <em>over <b>600,000</b></em> people have chosen <b class=\"brand"
+"\">Stannah</b> as their stairlift provider"
+msgstr ""
+"Sinds 1975 kozen <em>meer dan <b>600.000</b></em> mensen voor een <b class="
+"\"brand\">Stannah</b>-traplift.</p>\r"
+
+#: page-product-listing.php:107
+msgid "Learn more about the"
+msgstr "Lees meer over"
+
+#: page-product-listing.php:117
+msgid "Key benefits:"
+msgstr "Voordelen"
+
+#: page-product-listing.php:122
+msgid "Suitable for:"
+msgstr "Geschikt voor"
+
+#: page-product-listing.php:125 single-product.php:136
+msgctxt "This letter is the key for \"Straight Stairs\" on Product pages"
+msgid "S"
+msgstr "R"
+
+#: page-product-listing.php:125 single-product.php:136
+msgid "Straight stairs"
+msgstr "Rechte trappen"
+
+#: page-product-listing.php:128 single-product.php:139
+msgctxt "This letter is the key for \"Curved Stairs\" on Product pages"
+msgid "C"
+msgstr "D"
+
+#: page-product-listing.php:128 single-product.php:139
+msgid "Curved stairs"
+msgstr "Draaitrappen"
+
+#: page-product-listing.php:131 single-product.php:142
+msgctxt "This letter is the key for \"Narrow Stairs\" on Product pages"
+msgid "N"
+msgstr "S"
+
+#: page-product-listing.php:131 single-product.php:142
+msgid "Narrow stairs"
+msgstr "Smalle trappen"
+
+#: page-product-listing.php:134
+msgctxt "This letter is the key for \"Outdoor Stairs\" on Product pages"
+msgid "O"
+msgstr "B"
+
+#: page-product-listing.php:134
+msgid "Outdoor stairs"
+msgstr "Buitenliften"
+
+#: page-product-listing.php:141
+msgid "Styling options:"
+msgstr "Kleuren"
+
+#: page-product-listing.php:183
+msgid "Read about"
+msgstr "Lees over"
+
+#: page-product-listing.php:197
+msgid "Read more stories"
+msgstr "Lees meer verhalen"
+
+#: page-product-listing.php:217 page-product-listing.php:300
+msgid "We're here to help"
+msgstr "We zijn er om te helpen"
+
+#: page-product-listing.php:218 page-product-listing.php:301
+msgid ""
+"Our knowledgeable experts can help you choose the right stairlift for you or "
+"a loved one, without obligation."
+msgstr ""
+"Onze experts helpen u met het kiezen van de gepaste traplift voor u of een "
+"geliefde, geheel vrijblijvend."
+
+#: page-product-listing.php:270
+msgid "Order a<br /><b>Stannah</b> brochure"
+msgstr "Vraag uw <br><b>Stannah</b> brochure aan"
+
+#: page-product-listing.php:276 single-product.php:507
+msgid ""
+"You'll be able to securely download a PDF brochure on the next screen as "
+"well as choosing to have one delivered to your door - Most brochures are "
+"delivered within 3 working days."
+msgstr ""
+"Op het volgende scherm downloadt u de brochure in pdf-formaat of kiest u "
+"voor een verzending via de post. Gemiddeld valt uw brochure drie dagen later "
+"al in de bus."
+
+#: page-warrenty.php:46
+msgid "Your Full Name*"
+msgstr "Uw volledige naam*"
+
+#: page-warrenty.php:50
+msgid "Address of stairlift installation*"
+msgstr "Adres voor installatie*"
+
+#: page-warrenty.php:51
+msgid "Address"
+msgstr "Uw adres"
+
+#: page-warrenty.php:54
+msgid "Your phone number*"
+msgstr "Uw telefoonnummer*"
+
+#: page-warrenty.php:58
+msgid "Your email address"
+msgstr "Uw e-mailadres"
+
+#: page-warrenty.php:62
+msgid "Date of Stairlift installation*"
+msgstr "Datum van installatie*"
+
+#: page-warrenty.php:63
+msgid "installDate"
+msgstr "installDate"
+
+#: page-warrenty.php:66
+msgid "Carridge serial number*"
+msgstr "Carridge serienummer*"
+
+#: page-warrenty.php:67
+msgid "Avaliable from your installer. Serial number beings with \"U\"."
+msgstr "Beschikbaar bij uw installateur. Serienummer begint met \"U\"."
+
+#: page-warrenty.php:68
+msgid "SerialNumber"
+msgstr "Serienummer"
+
+#: page-warrenty.php:71
+msgid "Your Stannah stairlift dealer*"
+msgstr "Uw Stannah-verdeler*"
+
+#: page-warrenty.php:72
+msgid "DealerName"
+msgstr "DealerNaam"
+
+#: page-warrenty.php:77
+msgid "Warranty Registration"
+msgstr "Registratie Garantie"
+
+#: page-warrenty.php:77
+msgid "Send"
+msgstr "Verzonden"
+
+#: page-warrenty.php:82
+msgid "Your warranty form will now be processed."
+msgstr "Uw garantieformulier zal nu verwerkt worden."
+
+#: single-product.php:39
+msgid "Meet"
+msgstr "Ontdek"
+
+#: single-product.php:83
+msgid "View more images &amp; videos"
+msgstr "Bekijk meer foto’s en video’s"
+
+#: single-product.php:88
+msgid "Book a FREE no-obligation appointment now!"
+msgstr "Boek nu uw bezoek - gratis en vrijblijvend.\r"
+
+#: single-product.php:90
+msgid "Call our friendly advisors FREE on"
+msgstr "Bel kosteloos met een expert:"
+
+#: single-product.php:102
+msgid "Key features &amp; benefits"
+msgstr "Voordelen"
+
+#: single-product.php:108
+msgid "Customisable! It's your choice"
+msgstr "Kleuren"
+
+#: single-product.php:110
+msgid "Upholstery color"
+msgstr "Kleur"
+
+#: single-product.php:129
+msgid "View all options"
+msgstr "Meer kleuren "
+
+#: single-product.php:133
+msgid "Suitable for / Dimensions"
+msgstr "Geschikt voor"
+
+#: single-product.php:150
+msgid "View detailed specification"
+msgstr "Meer kenmerken "
+
+#: single-product.php:162
+msgid "What our experts say about the"
+msgstr "Onze expert over"
+
+#: single-product.php:194
+msgid "How much does a <span class=\"brand\">Stairlift cost?</span>"
+msgstr "Hoeveel kost een traplift?"
+
+#: single-product.php:204
+msgid "Call our experts for <b>FREE</b> on<br>"
+msgstr "Bel naar een expert op "
+
+#: single-product.php:206
+msgid "and make an appointment for a custom quote."
+msgstr "voor een gratis afspraak en vrijblijvende offerte."
+
+#: single-product.php:214
+msgid ""
+"Our customers share their stairlift <b>requirements</b> and <b>prices</b> "
+"with you"
+msgstr "Krijg een prijsindicatie dankzij de verhalen van klanten"
+
+#: single-product.php:251
+msgid "Key benefits"
+msgstr "Meer voordelen"
+
+#: single-product.php:285
+msgid "Detailed Specification"
+msgstr "meer kenmerken"
+
+#: single-product.php:287
+msgid "Design"
+msgstr "Ontwerp"
+
+#: single-product.php:288
+msgid "Power"
+msgstr "Energie"
+
+#: single-product.php:289
+msgid "Safety"
+msgstr "Veiligheid"
+
+#: single-product.php:342
+msgid "Gallery"
+msgstr "Fotogalerij"
+
+#: single-product.php:371
+msgid "Customise your"
+msgstr "Meer kleuren voor uw"
+
+#: single-product.php:372
+msgid "You can choose from the following options"
+msgstr "Bepaal het materiaal en de kleur van uw traplift."
+
+#: single-product.php:391
+msgid ""
+"Click on the swatches below to update the style of the stairlift on the left "
+"handside."
+msgstr "Klik op de stalen om uw traplift aan te passen."
+
+#: single-product.php:445
+msgid "Book a no obligation <b>FREE</b> home assessment"
+msgstr "Maak een <b>gratis</b> afspraak"
+
+#: single-product.php:446
+msgid ""
+"<b>Why wait to recapture the enjoyment of your home?</b><br>Arrange for an "
+"advisor to come and visit you to discuss the options available."
+msgstr ""
+"<b>“Had ik deze beslissing maar eerder genomen.”</b></br> Dat horen we "
+"voortdurend van klanten. Want de investering blijft hetzelfde, terwijl u al "
+"vanaf vandaag kunt genieten van comfort in uw eigen huis. "
+
+#: single-product.php:448
+#, php-format
+msgid "Or <a href=\"%s\">book an appointment now online"
+msgstr "Of <a href=\"%s\">maak nu online een afspraak."
+
+#: single-product.php:501
+msgid "Order a<br /> <b>Stannah</b> brochure"
+msgstr "Vraag een<br /> <b>Stannah</b> brochure"
+
+#. Theme Name of the plugin/theme
+msgid "Stannah Whitelabel"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blueprint for more Stannah sites after US site - 2015"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bunnyfoot"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://bunnyfoot.com/"
+msgstr ""
+
+#~ msgid "Download or order a<br /> <b>Stannah</b> brochure"
+#~ msgstr "Download of bestel een <br /> <b>Stannah</b> brochure"
+
+#~ msgid ""
+#~ "To download a brochure or get one delivered to your door, please complete "
+#~ "the small form below."
+#~ msgstr ""
+#~ "Wilt u de Stannah-brochure downloaden? Of sturen we een exemplaar naar u "
+#~ "op? Vul dan hieronder uw gegevens in."
+
+#~ msgid "process"
+#~ msgstr "proces"
+
+#~ msgid "brochure_options"
+#~ msgstr "brochure_opties"
+
+#~ msgid "Optional"
+#~ msgstr "Optioneel"
+
+#~ msgid "Brochure request"
+#~ msgstr "Aanvraag brochure"
+
+#~ msgid "Submit brochure request"
+#~ msgstr "Vraag uw brochure aan"
+
+#~ msgid "Thank you, your brochure request has been sent."
+#~ msgstr "Dank u, uw aanvraag is verzonden."
+
+#~ msgid ""
+#~ "Download or order a <b>FREE</b> <span class=\"brand\">Stannah</span> "
+#~ "brochure"
+#~ msgstr "Vraag een brochure aan"
+
+#~ msgid "Austrailia"
+#~ msgstr "Australië"
+
+#~ msgid "Austrailia (Western)"
+#~ msgstr "Australië (West) "
+
+#~ msgid "Czech Republic (Stannah)"
+#~ msgstr "Tsjechië (Stannah)"
+
+#~ msgid "Poland"
+#~ msgstr "Polen"
+
+#~ msgid "Republic of Ireland"
+#~ msgstr "Ierland"
+
+#~ msgid ""
+#~ "<span>98<span>%</span></span>\n"
+#~ "\t\t\t\t\t\t\tof our customers<br /> would<br /> recommend us"
+#~ msgstr "</br><span>98%</span> van onze klanten raadt Stannah aan. \r"
+
+#~ msgid "Showing:"
+#~ msgstr "Keuze: "
+
+#~ msgid "All Stairs"
+#~ msgstr "Alle Trappen"
+
+#~ msgid "Straight Stairs"
+#~ msgstr "Rechte Trappen"
+
+#~ msgid "Curved Stairs"
+#~ msgstr "Draaitrappen"
+
+#~ msgid "Outdoor Stairs"
+#~ msgstr "Buitentrappen"
+
+#~ msgid "book an appointment now online"
+#~ msgstr ""
+#~ "onze adviseur komt gratis en vrijblijvend bij u op bezoek om uw "
+#~ "mogelijkheden te bespreken."
+
+#~ msgid "Book a FREE no obligation home appointmentstannah-whitelabel"
+#~ msgstr "Maak een afspraak voor een gratis bezoek"
+
+#~ msgid ""
+#~ "When our advisor visits your home, he or she will talk with you about "
+#~ "what you need out of a stairlift.stannah-whitelabel"
+#~ msgstr ""
+#~ "Belt u met een Stannah-adviseur? Leg dan ook een vrijblijvende afspraak "
+#~ "vast. Tijdens dat bezoek meet de expert uw trap op en vertelt hij over de "
+#~ "soorten trapliften, de afwerkingsmogelijkheden en het verloop van de "
+#~ "installatie. <b>Bel gratis 0800 95 950</b>."
+
+#~ msgid "Appointments last aboutstannah-whitelabel"
+#~ msgstr "Een bezoek duurt gemiddeld "
+
+#~ msgid ""
+#~ "Stannah delievering over 600,000 stairlifts since 1975. 98&#37; of our "
+#~ "customers would recommend us"
+#~ msgstr ""
+#~ "Sinds 1975 leverde Stannah meer dan 600.000 trapliften. 98% van onze "
+#~ "klanten raadt Stannah aan/"
+
+#~ msgid "stairlifts,Stannah,stair lifts, chair, narrow stairs"
+#~ msgstr "traplift, Stannah, traplift, stoel, wenteltrap"
+
+#~ msgid ""
+#~ "<p>Our phones get answered <b>24-hours</b> a day, seven days a week, 365 "
+#~ "days a year. And, if there’s \n"
+#~ "\t\t\t\t\t\tever a problem, our technicians are based locally, ready to "
+#~ "help.</p>"
+#~ msgstr ""
+#~ "<p>onze klantendienst altijd voor u klaar staat – <b>24 uur</b> per dag, "
+#~ "365 dagen per jaar? En hebt u een noodgeval? Dan komt dezelfde dag nog "
+#~ "een technicus bij u langs.</p>\r"
+
+#~ msgid ""
+#~ "Stannah delievering over 600,000 stairlifts since 1975. 98% of our "
+#~ "customers would recommend us"
+#~ msgstr ""
+#~ "Sinds 1975 kozen meer dan 600.000 mensen voor een Stannah-traplift. "
+#~ "98&#37; van onze klanten raadt Stannah aan."

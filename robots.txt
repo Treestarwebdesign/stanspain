@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /samsung/
+Disallow: /projects/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.stannah.es/post-sitemap.xml
+Sitemap: http://www.stannah.es/page-sitemap.xml
+Sitemap: http://www.stannah.es/product-sitemap.xml
+Sitemap: http://www.stannah.es/category-sitemap.xml
+Sitemap: http://www.stannah.es/product_type-sitemap.xml
